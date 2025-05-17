@@ -20,12 +20,12 @@
 <table>
 <tr><td>
 
-<br> ![Overview](https://img.shields.io/badge/_1._-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![1.](https://img.shields.io/badge/_1._-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <br> ▶️ A data structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
-<br> ![Print()](https://img.shields.io/badge/_2._-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![1.1](https://img.shields.io/badge/_1.1_-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
@@ -50,7 +50,7 @@ processing.
 </details> 
 
 
-<br> ![Comments](https://img.shields.io/badge/_2._-Comments-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![1.2](https://img.shields.io/badge/_1.2_-Comments-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
