@@ -251,11 +251,18 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 <br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
-🟠 Key Characteristics:
+<br> 🟠 Key Characteristics:
+
+```html
 
 • Elements are not stored sequentially.
 
 • Provide efficient relationships between data.
+
+```
+
+<table>
+<tr><td>
 
 🟠 Examples:
 
@@ -290,6 +297,9 @@ Types:
 Applications: Used in social networks, web page ranking, and shortest path algorithms.
 
 ```
+
+</td></tr>
+</table>
 
 </td></tr>
 </table>
