@@ -359,13 +359,13 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 <br> ![4](https://img.shields.io/badge/_4]_-Abstract_Data_Type-000080?style=for-the-badge&logo=C&logoColor=white)
 
+<table>
+<tr><td>
+
 ▶️ An Abstract Data Type (ADT) is a high-level description of a data structure that specifes its behavior from the user’s
 perspective without focusing on its implementation. 
 
 ▶️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
-
-<table>
-<tr><td>
 
 <details>
   <summary>Click to expand</summary>
