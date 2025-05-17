@@ -160,7 +160,7 @@ processing.
 
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 ▶️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
-🟠 Key Characteristics:
+<br> 🟠 Key Characteristics:
 
 ```html
 1. Elements are stored consecutively.
@@ -174,9 +174,15 @@ processing.
 <table>
 <tr><td>
 
-Examples:
+🟠 Examples:
 
-1. Array: A collection of elements stored in contiguous memory locations. Operations:
+1. Array: A collection of elements stored in contiguous memory locations.
+  
+
+
+```html
+
+Operations:
 
 • Accessing: Constant time (using index).
 
@@ -185,6 +191,8 @@ Examples:
 • Insertion/Deletion: Expensive in terms of shifting elements.
 
 • Applications: Used in matrices, image processing, and database indexing.
+
+```
 
 2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node. Types:
 
