@@ -40,11 +40,11 @@ processing.
 
 4. Real-World Applications:
 
-   • Databases use trees and hash tables for efcient indexing.
+   •  Databases use trees and hash tables for efcient indexing.
 
-   • Search engines rely on graphs for ranking and searching.
+   •  Search engines rely on graphs for ranking and searching.
 
-   • Compilers use stacks to evaluate expressions and manage function calls.
+   •  Compilers use stacks to evaluate expressions and manage function calls.
 
 
 </details> 
