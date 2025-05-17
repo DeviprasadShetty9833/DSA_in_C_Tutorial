@@ -240,7 +240,9 @@ Types:
 
 • Circular Queue.
 
-• Priority Queue.• Deque (Double-Ended Queue).
+• Priority Queue.
+
+• Deque (Double-Ended Queue).
 
 Applications: Scheduling algorithms, resource sharing in operating systems.
 
