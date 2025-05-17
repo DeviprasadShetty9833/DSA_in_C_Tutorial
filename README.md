@@ -328,27 +328,21 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 ```html
 
 1. Insertion: Adding an element to the data structure.
-
 • Example: Adding a node to a linked list.
 
 2. Deletion: Removing an element.
-
 • Example: Removing an element from a stack or queue.
 
 3. Traversal: Accessing each element for processing.
-
 • Example: Iterating through an array or linked list.
 
 4. Searching: Finding a particular element.
-
 • Example: Linear search or binary search in arrays.
 
 5. Sorting: Arranging elements in a specifc order.
-
 • Example: Sorting an array using Bubble Sort or Quick Sort.
 
 6. Merging: Combining two data structures into one.
-
 • Example: Merging two sorted arrays.
 
 ```
@@ -391,11 +385,11 @@ perspective without focusing on its implementation.
 
 ```html
 
-1. Domain (Data): The set of all possible values the ADT can hold. For example, in a stack, the domain includes all
+1. Domain (Data): The set of all possible values the ADT can hold.
+   For example, In a stack, the domain includes all elements that can be stored in the stack.
 
-elements that can be stored in the stack.
-
-2. Operations: The set of operations defned for the ADT. Each operation has:
+2. Operations: The set of operations defned for the ADT.
+   Each operation has:
 
 • Name: What the operation is called.
 
@@ -404,7 +398,6 @@ elements that can be stored in the stack.
 • Output: The result of the operation.
 
 3. Properties: Rules or axioms that describe the behavior of the operations (e.g., in a queue, the frst element inserted
-
 is the frst to be removed).
 
 ``` 
