@@ -315,6 +315,12 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 3] Operations on Data Structures
 
+<table>
+<tr><td>
+
+<details>
+  <summary>Click to expand</summary>
+
 1. Insertion: Adding an element to the data structure.
 
 • Example: Adding a node to a linked list.
@@ -338,6 +344,11 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 6. Merging: Combining two data structures into one.
 
 • Example: Merging two sorted arrays.
+
+</details> 
+
+</td></tr>
+</table>
 
 4] Abstract Data Type
 
