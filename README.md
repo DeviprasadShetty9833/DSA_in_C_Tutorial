@@ -397,8 +397,7 @@ perspective without focusing on its implementation.
 
 • Output: The result of the operation.
 
-3. Properties: Rules or axioms that describe the behavior of the operations (e.g., in a queue, the frst element inserted
-is the frst to be removed).
+3. Properties: Rules or axioms that describe the behavior of the operations (e.g., in a queue, the frst element inserted is the frst to be removed).
 
 ``` 
 
