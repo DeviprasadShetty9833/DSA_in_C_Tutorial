@@ -25,18 +25,27 @@
 <br> ▶️ A data structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
-<br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![Print()](https://img.shields.io/badge/_2._-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
 
-  *Code* : 
-```html 
-print("Hello World!")
+ 
+1. Efficient Data Handling: Data structures allow for efficient organization and manipulation of data, enabling faster
+processing.
 
-```
-*Output* : `Hello World!`    
-> - Here, print() is a function that displays the msg 'Hello World' on the console.
+2. Optimized Resource Usage: Proper data structures reduce memory and processing requirements.
+
+3. Problem Solving: Many computational problems are best addressed by choosing the appropriate data structure.
+
+4. Real-World Applications:
+
+   • Databases use trees and hash tables for efcient indexing.
+
+   • Search engines rely on graphs for ranking and searching.
+
+   • Compilers use stacks to evaluate expressions and manage function calls.
+
 
 </details> 
 
