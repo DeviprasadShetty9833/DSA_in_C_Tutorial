@@ -20,7 +20,7 @@
 <table>
 <tr><td>
 
-<br> ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![DSA](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
