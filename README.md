@@ -23,7 +23,7 @@
 <table>
 <tr><td>
 
-<br> ▶️ A data structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
+<br> ▶️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
 <br> ![1.1](https://img.shields.io/badge/_1.1_-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
@@ -65,6 +65,28 @@ processing.
 2. Data Manipulation: Operations like insertion, deletion, and updating of data.
 
 3. Access Mechanism: Determines how data can be retrieved and stored efciently.
+```
+
+</details> 
+
+<br> ![1.3](https://img.shields.io/badge/_1.3_-Classifcation_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<details>
+  <summary>Click to expand</summary>
+  
+```html
+
+Data structures can broadly be classifed into two categories:
+
+1. Primitive Data Structures
+   - Basic data types that are directly operated upon by machine-level instructions.
+   - Examples: Integers, Floats, Characters, Strings, and Boolean.
+
+2. Non-Primitive Data Structures
+   - More complex data structures built using primitive data types.
+   - Examples:
+      - Linear: Array, Linked List, Stack, Queue.
+      - Nonlinear: Tree, Graph.
 ```
 
 </details> 
