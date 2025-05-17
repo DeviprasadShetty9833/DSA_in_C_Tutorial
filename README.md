@@ -364,7 +364,9 @@ perspective without focusing on its implementation.
 
 ▶️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
 
-4.1 Key Characteristics of ADT
+🟠 Key Characteristics of ADT
+
+```html
 
 1. Encapsulation: Combines data and the operations that manipulate the data into a single unit.
 
@@ -372,13 +374,13 @@ perspective without focusing on its implementation.
 
 3. Independence: Implementation can vary as long as the ADT behavior is preserved.
 
-4. Focus on Functionality: Specifes operations, their inputs, outputs, and expected behavior, independent of pro-
+4. Focus on Functionality: Specifes operations, their inputs, outputs, and expected behavior, independent of programming language or system constraints.
 
-gramming language or system constraints.
+```
 
-4.2 Components of an ADT
+🟠 Components of an ADT
 
-An ADT has the following components:
+```html
 
 1. Domain (Data): The set of all possible values the ADT can hold. For example, in a stack, the domain includes all
 
@@ -395,3 +397,7 @@ elements that can be stored in the stack.
 3. Properties: Rules or axioms that describe the behavior of the operations (e.g., in a queue, the frst element inserted
 
 is the frst to be removed).
+
+```
+
+
