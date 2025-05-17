@@ -303,3 +303,69 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 </td></tr>
 </table>
+
+Operations on Data Structures
+
+1. Insertion: Adding an element to the data structure.
+
+• Example: Adding a node to a linked list.
+
+2. Deletion: Removing an element.
+
+• Example: Removing an element from a stack or queue.
+
+3. Traversal: Accessing each element for processing.
+
+• Example: Iterating through an array or linked list.
+
+4. Searching: Finding a particular element.
+
+• Example: Linear search or binary search in arrays.
+
+5. Sorting: Arranging elements in a specifc order.
+
+• Example: Sorting an array using Bubble Sort or Quick Sort.
+
+6. Merging: Combining two data structures into one.
+
+• Example: Merging two sorted arrays.
+
+2.5 Abstract Data Type
+
+An Abstract Data Type (ADT) is a high-level description of a data structure that specifes its behavior from the user’s
+
+perspective without focusing on its implementation. It defnes a set of values and operations that can be performed on the
+
+data, abstracting away the underlying details.
+
+2.5.1 Key Characteristics of ADT
+
+1. Encapsulation: Combines data and the operations that manipulate the data into a single unit.
+
+2. Abstraction: Emphasizes “what” operations the ADT can perform rather than “how” they are implemented.
+
+3. Independence: Implementation can vary as long as the ADT behavior is preserved.
+
+4. Focus on Functionality: Specifes operations, their inputs, outputs, and expected behavior, independent of pro-
+
+gramming language or system constraints.
+
+2.5.2 Components of an ADT
+
+An ADT has the following components:
+
+1. Domain (Data): The set of all possible values the ADT can hold. For example, in a stack, the domain includes all
+
+elements that can be stored in the stack.
+
+2. Operations: The set of operations defned for the ADT. Each operation has:
+
+• Name: What the operation is called.
+
+• Input: Parameters or data required for the operation.
+
+• Output: The result of the operation.
+
+3. Properties: Rules or axioms that describe the behavior of the operations (e.g., in a queue, the frst element inserted
+
+is the frst to be removed).
