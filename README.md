@@ -255,9 +255,9 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 
 ```html
 
-• Elements are not stored sequentially.
+1. Elements are not stored sequentially.
 
-• Provide efficient relationships between data.
+2. Provide efficient relationships between data.
 
 ```
 
