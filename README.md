@@ -189,11 +189,11 @@ processing.
 
 Operations:
 
-• Accessing: Constant time (using index).
+- Accessing: Constant time (using index).
 
-• Searching: Linear search (O(n)) or binary search (O(log n) for sorted arrays).
+- Searching: Linear search (O(n)) or binary search (O(log n) for sorted arrays).
 
-• Insertion/Deletion: Expensive in terms of shifting elements.
+- Insertion/Deletion: Expensive in terms of shifting elements.
 
 Applications: Used in matrices, image processing, and database indexing.
 
@@ -221,11 +221,11 @@ Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memo
 
 Operations:
 
-• Push: Insert an element.
+- Push: Insert an element.
 
-• Pop: Remove the top element.
+- Pop: Remove the top element.
 
-• Peek: View the top element.
+- Peek: View the top element.
 
 Applications: Used in recursion, expression evaluation, and undo functionality.
 
