@@ -512,6 +512,34 @@ Operations:
 </td></tr>
 </table>
 
+<br> 🟠 Properties of ADTs
+
+```html
+
+1. Abstract Interface: The ADT specifes what the operations do, not how they are implemented.
+
+2. Independence from Implementation: The ADT does not restrict how the data is stored or manipulated internally.
+
+3. Platform-Independent: The same ADT can be implemented diferently on various platforms or programming languages.
+
+4. Reusability: ADTs provide a reusable interface that can be applied to various contexts.
+
+```
+
+<br> 🟠 Benefts of Using ADTs
+
+```html
+
+1. Encapsulation: Encapsulates data and operations, allowing developers to work with high-level abstractions.
+
+2. Modularity:Promotes separation between implementation and usage, making code easier to understand and maintain.
+
+3. Flexibility:Multiple implementations can coexist for the same ADT, allowing optimization for diferent use cases.
+
+4. Ease of Use:Users only need to understand the ADT’s operations, not its implementation.
+
+```
+
 </details>
 
 </td></tr>
