@@ -313,6 +313,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 </td></tr>
 </table>
 
+---
 
 <br> ![3](https://img.shields.io/badge/_3]_-Operations_on_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)
 
@@ -356,6 +357,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 </td></tr>
 </table>
+
+---
 
 <br> ![4](https://img.shields.io/badge/_4]_-Abstract_Data_Type-000080?style=for-the-badge&logo=C&logoColor=white)
 
@@ -506,3 +509,5 @@ Operations:
 
 </td></tr>
 </table>
+
+---
