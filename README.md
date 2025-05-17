@@ -248,7 +248,7 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 </table>
 
 
-<br> ![2.1](https://img.shields.io/badge/_2.1_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![2.2](https://img.shields.io/badge/_2.2_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 <br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
 <br> 🟠 Key Characteristics:
