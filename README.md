@@ -160,6 +160,7 @@ processing.
 
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 ▶️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
+
 <br> 🟠 Key Characteristics:
 
 ```html
