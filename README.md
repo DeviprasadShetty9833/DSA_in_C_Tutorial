@@ -31,9 +31,7 @@
 
 ---
 
-<br> ![1.](https://img.shields.io/badge/1.-Add%20Contact-00599C?style=for-the-badge&labelColor=white)
-
-<br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=lightblue)   
+<br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)   
 
 <table>
 <tr><td>
@@ -169,7 +167,7 @@
 
 ---
 
-<br> ![2.](https://img.shields.io/badge/_2]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![2.](https://img.shields.io/badge/_2]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)   
 
 <table>
 <tr><td>
@@ -332,7 +330,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 ---
 
-<br> ![3](https://img.shields.io/badge/_3]_-Operations_on_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)
+<br> ![3](https://img.shields.io/badge/_3]_-Operations_on_Data_Structures-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)
 
 <table>
 <tr><td>
@@ -371,7 +369,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 ---
 
-<br> ![4](https://img.shields.io/badge/_4]_-Abstract_Data_Type-000080?style=for-the-badge&logo=C&logoColor=white)
+<br> ![4](https://img.shields.io/badge/_4]_-Abstract_Data_Type-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)
 
 <table>
 <tr><td>
