@@ -17,6 +17,7 @@
 
 # DSA Basics
 
+---
 
 <br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
 
@@ -152,6 +153,8 @@ processing.
 
 </td></tr>
 </table>
+
+---
 
 <br> ![2.](https://img.shields.io/badge/_2]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
