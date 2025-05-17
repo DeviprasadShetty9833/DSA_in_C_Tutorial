@@ -20,7 +20,7 @@
 <table>
 <tr><td>
 
-<br> ![DSA](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![Overview](https://img.shields.io/badge/_1._-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
