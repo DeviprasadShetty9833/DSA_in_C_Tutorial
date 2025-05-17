@@ -79,12 +79,12 @@ processing.
 Data structures can broadly be classifed into two categories:
 
 1. Primitive Data Structures
-   - Basic data types that are directly operated upon by machine-level instructions.
-   - Examples: Integers, Floats, Characters, Strings, and Boolean.
+   • Basic data types that are directly operated upon by machine-level instructions.
+   • Examples: Integers, Floats, Characters, Strings, and Boolean.
 
 2. Non-Primitive Data Structures
-   - More complex data structures built using primitive data types.
-   - Examples:
+   • More complex data structures built using primitive data types.
+   • Examples:
       - Linear: Array, Linked List, Stack, Queue.
       - Nonlinear: Tree, Graph.
 ```
