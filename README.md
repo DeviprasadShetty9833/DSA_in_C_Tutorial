@@ -240,24 +240,24 @@ Types:
 
 • Priority Queue.• Deque (Double-Ended Queue).
 
-• Applications: Scheduling algorithms, resource sharing in operating systems.
+Applications: Scheduling algorithms, resource sharing in operating systems.
 
 ```
 
 </td></tr>
 </table>
 
-2.3.2 Nonlinear Data Structures
 
-Nonlinear data structures organize data hierarchically or in an interconnected network.
+<br> ![2.1](https://img.shields.io/badge/_2.1_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
-Key Characteristics:
+🟠 Key Characteristics:
 
 • Elements are not stored sequentially.
 
 • Provide efcient relationships between data.
 
-Examples:
+🟠 Examples:
 
 1. Trees: A hierarchical structure consisting of nodes, with one root node and child nodes. Types:
 
