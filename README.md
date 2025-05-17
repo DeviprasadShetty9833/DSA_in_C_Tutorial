@@ -568,18 +568,16 @@ Operations:
 2) Copy their Readme.md and paste it here.
 3) Delete the repos. -->
 
-<br> ![1.](https://img.shields.io/badge/_1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white)   
+|   |
+|---|
+| ![1.](https://img.shields.io/badge/_1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white) | 
+| ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | 
+| ![2.2](https://img.shields.io/badge/_2.2]_-Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
+| ![2.3](https://img.shields.io/badge/_2.3]_-Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
+| ![2.4](https://img.shields.io/badge/_2.4]_-Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
+| [![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) |
+| ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) |
+|   |
 
-<br> ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
 
-<br> ![2.2](https://img.shields.io/badge/_2.2]_-Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
-
-<br> ![2.3](https://img.shields.io/badge/_2.3]_-Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
-
-<br> ![2.4](https://img.shields.io/badge/_2.4]_-Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
-
-<br> [![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c)   
-
-<br> ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)   
-
-<br> ![status](https://img.shields.io/badge/status-upcoming-yellow)
+ ![status](https://img.shields.io/badge/status-upcoming-yellow)
