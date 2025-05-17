@@ -255,11 +255,15 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 
 • Elements are not stored sequentially.
 
-• Provide efcient relationships between data.
+• Provide efficient relationships between data.
 
 🟠 Examples:
 
-1. Trees: A hierarchical structure consisting of nodes, with one root node and child nodes. Types:
+1. Trees: A hierarchical structure consisting of nodes, with one root node and child nodes.
+
+```html
+  
+Types:
 
 • Binary Tree: Each node has at most two children.
 
@@ -267,9 +271,15 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 
 • AVL Tree, Red-Black Tree: Balanced binary trees.
 
-• Applications: Used in databases, fle systems, and network routing.
+Applications: Used in databases, fle systems, and network routing.
 
-2. Graphs: Consist of vertices (nodes) and edges (connections). Types:
+```
+
+2. Graphs: Consist of vertices (nodes) and edges (connections).
+
+```html
+  
+Types:
 
 • Directed vs. Undirected Graphs.
 
@@ -277,7 +287,9 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 
 • Cyclic vs. Acyclic Graphs.
 
-• Applications: Used in social networks, web page ranking, and shortest path algorithms.
+Applications: Used in social networks, web page ranking, and shortest path algorithms.
+
+```
 
 </td></tr>
 </table>
