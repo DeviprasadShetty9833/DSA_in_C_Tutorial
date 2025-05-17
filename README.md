@@ -67,8 +67,6 @@ processing.
 
 3. Access Mechanism: Determines how data can be retrieved and stored efciently.
 ```
-*Output* : ` ` 
-> - Python ignores comments when running the code, but they help people understand what the code is doing.
 
 </details> 
 
