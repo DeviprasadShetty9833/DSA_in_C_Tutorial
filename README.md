@@ -370,7 +370,7 @@ perspective without focusing on its implementation.
 <details>
   <summary>Click to expand</summary>
 
-<br> 🟠 Key Characteristics of ADT
+<br> 🟠 Key Characteristics:
 
 ```html
 
@@ -384,7 +384,7 @@ perspective without focusing on its implementation.
 
 ```
 
-<br> 🟠 Components of an ADT
+<br> 🟠 Components:
 
 ```html
 
