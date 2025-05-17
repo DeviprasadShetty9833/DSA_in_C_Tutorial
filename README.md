@@ -109,11 +109,11 @@ processing.
    • Examples: Trees, Graphs.
 
 3. Static Data Structures:
-   • Fixed size; memory is allocated at compile-time.
+   • Fixed size; memory is allocated at Compile-time.
    • Example: Array.
 
 4. Dynamic Data Structures:
-   • Flexible size; memory is allocated and deallocated at runtime.
+   • Flexible size; memory is allocated and deallocated at Runtime.
    • Example: Linked List.
 
 ```
