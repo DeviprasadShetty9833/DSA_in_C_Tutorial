@@ -153,7 +153,91 @@ processing.
 </td></tr>
 </table>
 
+3 Classifcation of Data Structures
 
+2.3.1 Linear Data Structures
+
+Linear data structures organize data in a sequential manner, where elements are arranged in a line. Key Characteristics:
+
+• Elements are stored consecutively.
+
+• Traversal is straightforward (one-dimensional).
+
+• Fixed or variable size.
+
+Examples:
+
+1. Array: A collection of elements stored in contiguous memory locations. Operations:
+
+• Accessing: Constant time (using index).
+
+• Searching: Linear search (O(n)) or binary search (O(log n) for sorted arrays).
+
+• Insertion/Deletion: Expensive in terms of shifting elements.
+
+• Applications: Used in matrices, image processing, and database indexing.
+
+2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node. Types:
+
+• Singly Linked List: Points only to the next node.
+
+• Doubly Linked List: Points to both next and previous nodes.
+
+• Circular Linked List: Last node points to the frst node.
+
+Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memory usage due to pointers.
+
+3. Stack: A collection following the Last In, First Out (LIFO) principle. Operations:
+
+• Push: Insert an element.
+
+• Pop: Remove the top element.
+
+• Peek: View the top element.
+
+• Applications: Used in recursion, expression evaluation, and undo functionality.
+
+4. Queue: A collection following the First In, First Out (FIFO) principle. Types:
+
+• Simple Queue.
+
+• Circular Queue.
+
+• Priority Queue.• Deque (Double-Ended Queue).
+
+• Applications: Scheduling algorithms, resource sharing in operating systems.
+
+2.3.2 Nonlinear Data Structures
+
+Nonlinear data structures organize data hierarchically or in an interconnected network.
+
+Key Characteristics:
+
+• Elements are not stored sequentially.
+
+• Provide efcient relationships between data.
+
+Examples:
+
+1. Trees: A hierarchical structure consisting of nodes, with one root node and child nodes. Types:
+
+• Binary Tree: Each node has at most two children.
+
+• Binary Search Tree: Left child < root < right child.
+
+• AVL Tree, Red-Black Tree: Balanced binary trees.
+
+• Applications: Used in databases, fle systems, and network routing.
+
+2. Graphs: Consist of vertices (nodes) and edges (connections). Types:
+
+• Directed vs. Undirected Graphs.
+
+• Weighted vs. Unweighted Graphs.
+
+• Cyclic vs. Acyclic Graphs.
+
+• Applications: Used in social networks, web page ranking, and shortest path algorithms.
 
 
 
