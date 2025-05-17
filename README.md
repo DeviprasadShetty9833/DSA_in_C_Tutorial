@@ -76,7 +76,7 @@ processing.
 <details>
   <summary>Click to expand</summary>
 
-<br> Data structures can broadly be classifed into two categories:
+<br> 🟠 Data structures can broadly be classifed into two categories:
   
 ```html
 
@@ -159,14 +159,17 @@ processing.
 <tr><td>
 
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
-Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
-Key Characteristics:
+▶️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
+🟠 Key Characteristics:
 
-<br> ▶️ Elements are stored consecutively.
+```html
+1. Elements are stored consecutively.
 
-<br> ▶️ Traversal is straightforward (one-dimensional).
+2. Traversal is straightforward (one-dimensional).
 
-<br> ▶️ Fixed or variable size.
+3. Fixed or variable size.
+
+```
 
 <table>
 <tr><td>
