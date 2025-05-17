@@ -570,7 +570,7 @@ Operations:
 
 |   |
 |---|
-| ![1.](https://img.shields.io/badge/_1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white) | 
+| ![1.1](https://img.shields.io/badge/_1.1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white) | 
 | ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | 
 | ![2.2](https://img.shields.io/badge/_2.2]_-Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
 | ![2.3](https://img.shields.io/badge/_2.3]_-Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
