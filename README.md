@@ -23,7 +23,7 @@
 <table>
 <tr><td>
 
-<br> ▶️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
+<br> ▶️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efficiently. 
 
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
