@@ -31,7 +31,7 @@
   <summary>Click to expand</summary>
 
  
-1. Efficient Data Handling: Data structures allow for efficient organization and manipulation of data, enabling faster
+1. <u> Efficient Data Handling </u>: Data structures allow for efficient organization and manipulation of data, enabling faster
 processing.
 
 2. Optimized Resource Usage: Proper data structures reduce memory and processing requirements.
