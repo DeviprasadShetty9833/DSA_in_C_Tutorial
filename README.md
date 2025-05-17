@@ -15,6 +15,12 @@
 <br> 
 
 # How to learn DSA:
+1. Select a function.
+2. Learn the syntax.
+3. Find the meaning of each line.
+4. Translate the meaning in simple English.
+5. Relate each line with an example to remember the flow.
+6. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
 
 # Intro to DSA:
 
