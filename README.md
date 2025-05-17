@@ -17,10 +17,11 @@
 
 # DSA Basics
 
-<table>
-<tr><td>
 
 <br> ![1.](https://img.shields.io/badge/_1._-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<table>
+<tr><td>
 
 <br> ▶️ A data structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
