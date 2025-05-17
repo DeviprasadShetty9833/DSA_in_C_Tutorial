@@ -15,7 +15,7 @@
 <br> 
 
 
-# DSA Basics
+# Intro to DSA
 
 ---
 
@@ -561,3 +561,5 @@ Operations:
 </table>
 
 ---
+
+# Data Structures 
