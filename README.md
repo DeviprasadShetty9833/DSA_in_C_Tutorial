@@ -577,6 +577,7 @@ Operations:
 | ![2.4](https://img.shields.io/badge/_2.4]_-Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
 | [![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) |
 | ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) |
+| ![4.1](https://img.shields.io/badge/_4.1]_-Binary_Search_Tree-000080?style=for-the-badge&logo=C&logoColor=white) |
 |   |
 
 
