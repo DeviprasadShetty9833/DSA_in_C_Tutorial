@@ -87,7 +87,7 @@
 2. Non-Primitive Data Structures
    • More complex data structures built using primitive data types.
    • Examples:
-      - Linear: Array, Linked List, Stack, Queue.
+      - Linear: Array, Stack, Queue, Linked List.
       - Nonlinear: Tree, Graph.
 
 ```
@@ -103,7 +103,7 @@
 
 1. Linear Data Structures:
    • Data is arranged sequentially, and each element is connected to its previous and next element.
-   • Examples: Arrays, Linked Lists, Stacks, Queues.
+   • Examples: Arrays, Stacks, Queues, Linked Lists.
 
 2. Nonlinear Data Structures:
    • Data is arranged in a hierarchical manner, with no strict sequence.
