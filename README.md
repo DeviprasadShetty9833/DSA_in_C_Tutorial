@@ -196,9 +196,11 @@ Applications: Used in matrices, image processing, and database indexing.
 
 ```
 
-2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node. Types:
+2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node.
 
 ```html
+
+Types:
 
 • Singly Linked List: Points only to the next node.
 
@@ -210,9 +212,11 @@ Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memo
 
 ```
 
-3. Stack: A collection following the Last In, First Out (LIFO) principle. Operations:
+3. Stack: A collection following the Last In, First Out (LIFO) principle. 
 
 ```html
+
+Operations:
 
 • Push: Insert an element.
 
@@ -224,9 +228,11 @@ Applications: Used in recursion, expression evaluation, and undo functionality.
 
 ```
 
-4. Queue: A collection following the First In, First Out (FIFO) principle. Types:
+4. Queue: A collection following the First In, First Out (FIFO) principle. 
 
 ```html
+
+Types:
 
 • Simple Queue.
 
