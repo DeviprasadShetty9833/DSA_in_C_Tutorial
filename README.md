@@ -21,7 +21,11 @@
 4. Translate the meaning in simple English.
 5. Relate each line with an example to remember the flow.
 6. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
-7. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
+7. Use the Feynman Technique:
+> “If you can’t explain it simply, you don’t understand it well enough.”
+8. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
+9. Rebuild the Logic and Debug Yourself.
+10. Test your code multiple times with different inputs.
 
 # Intro to DSA:
 
