@@ -313,7 +313,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 </td></tr>
 </table>
 
-3] Operations on Data Structures
+
+<br> ![3](https://img.shields.io/badge/_3]_-Operations_on_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)
 
 <table>
 <tr><td>
