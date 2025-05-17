@@ -564,6 +564,10 @@ Operations:
 
 # Data Structures 
 
+<!-- 1) Make diff. repositories for each.
+2) Copy their Readme.md and paste it here.
+3) Delete the repos. -->
+
 <br> ![1.](https://img.shields.io/badge/_1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <br> ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
