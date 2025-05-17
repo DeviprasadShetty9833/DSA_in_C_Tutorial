@@ -414,7 +414,9 @@ is the frst to be removed).
 <table>
 <tr><td>
 
-List ADT:
+1. List ADT:
+
+```html
 
 Domain: A finite sequence of elements.
 
@@ -428,11 +430,13 @@ Operations:
 
 - Search (find an element in the list).
 
-Stack ADT:
+```
 
-Domain: A collection of elements where elements are added and removed in a Last In,␣
+2. Stack ADT:
 
-↪First Out (LIFO) manner.
+```html
+
+Domain: A collection of elements where elements are added and removed in a Last In, First Out (LIFO) manner.
 
 Operations:
 
@@ -444,13 +448,13 @@ Operations:
 
 - IsEmpty: Check if the stack is empty.
 
+```
+
 Queue ADT:
 
-Domain: A collection of elements where elements are added at one end (rear) and␣
+```html
 
-↪removed from the other end (front), following a First In, First Out (FIFO)␣
-
-↪principle.
+Domain: A collection of elements where elements are added at one end (rear) and removed from the other end (front), following a First In, First Out (FIFO) principle.
 
 Operations:
 
@@ -462,11 +466,13 @@ Operations:
 
 - IsEmpty: Check if the queue is empty.
 
+```
+
 Deque (Double-Ended Queue) ADT:
 
-Domain: A collection of elements where elements can be added or removed from both␣
+```html
 
-↪ends.
+Domain: A collection of elements where elements can be added or removed from both ends.
 
 Operations:
 
@@ -476,7 +482,11 @@ Operations:
 
 - PeekFront, PeekRear.
 
+```
+
 Priority Queue ADT:
+
+```html
 
 Domain: A collection of elements with associated priorities.
 
@@ -486,7 +496,11 @@ Operations:
 
 - RemoveHighestPriority: Remove the element with the highest priority.
 
-Set ADT
+```
+
+Set ADT:
+
+```html
 
 Domain: A collection of unique elements.
 
@@ -501,6 +515,8 @@ Operations:
 - Intersection: Find common elements in two sets.
 
 - Difference: Find elements present in one set but not the other.
+
+```
 
 </td></tr>
 </table>
