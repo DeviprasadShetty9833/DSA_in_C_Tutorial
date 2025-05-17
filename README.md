@@ -153,21 +153,19 @@ processing.
 </td></tr>
 </table>
 
-<br> ![2.](https://img.shields.io/badge/_1]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![2.](https://img.shields.io/badge/_2]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <table>
 <tr><td>
 
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
-
-
 Linear data structures organize data in a sequential manner, where elements are arranged in a line. Key Characteristics:
 
-• Elements are stored consecutively.
+<br> ▶️ Elements are stored consecutively.
 
-• Traversal is straightforward (one-dimensional).
+<br> ▶️ Traversal is straightforward (one-dimensional).
 
-• Fixed or variable size.
+<br> ▶️ Fixed or variable size.
 
 <table>
 <tr><td>
