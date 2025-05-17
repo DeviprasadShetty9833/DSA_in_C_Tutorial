@@ -161,22 +161,13 @@ processing.
 
 <br> ![Indentation](https://img.shields.io/badge/_2._-Indentation-000080?style=for-the-badge&logo=C&logoColor=white)
 
-<br> ▶️ Indentation is used to define blocks of code.
-<br> ▶️ All statements with the same level of indentation are considered part of the same block.
-<br> ▶️ Indentation is achieved using whitespace (spaces or tabs) at the beginning of each line.
 <br> <br> 
 
 <details>
   <summary>Click to expand</summary>
 
-*Code* : 
 ```html
-if 10 > 5:
-    print("I have indentation.")
 
-print("I have no indentation.")
 ```
-> - The 1st print statement is indented by 4 spaces, so they belong to the if block.
-> - The 2nd print statement is not indented, so it is outside the if block.
 
 </details> 
