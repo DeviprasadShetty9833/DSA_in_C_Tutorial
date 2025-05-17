@@ -33,14 +33,14 @@
 
 ```html
  
-1. **Efficient Data Handling** : Data structures allow for efficient organization and manipulation of data, enabling faster
+1. Efficient Data Handling : Data structures allow for efficient organization and manipulation of data, enabling faster
 processing.
 
-2. **Optimized Resource Usage** : Proper data structures reduce memory and processing requirements.
+2. Optimized Resource Usage : Proper data structures reduce memory and processing requirements.
 
-3. **Problem Solving** : Many computational problems are best addressed by choosing the appropriate data structure.
+3. Problem Solving : Many computational problems are best addressed by choosing the appropriate data structure.
 
-4. **Real-World Applications** :
+4. Real-World Applications :
 
    •  Databases use trees and hash tables for efcient indexing.
 
