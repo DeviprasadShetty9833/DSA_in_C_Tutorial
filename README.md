@@ -153,13 +153,13 @@ processing.
 </td></tr>
 </table>
 
-<br> ![2.](https://img.shields.io/badge/_1]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![2.](https://img.shields.io/badge/_1]_-Classifcation_of_Non_Primitive_Data_Structures-000080?style=for-thebadge&logo=C&logoColor=white)   
 
 <table>
 <tr><td>
 
+<br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-thebadge&logo=C&logoColor=white)   
 
-2.3.1 Linear Data Structures
 
 Linear data structures organize data in a sequential manner, where elements are arranged in a line. Key Characteristics:
 
@@ -168,6 +168,9 @@ Linear data structures organize data in a sequential manner, where elements are 
 • Traversal is straightforward (one-dimensional).
 
 • Fixed or variable size.
+
+<table>
+<tr><td>
 
 Examples:
 
@@ -211,6 +214,9 @@ Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memo
 
 • Applications: Scheduling algorithms, resource sharing in operating systems.
 
+</td></tr>
+</table>
+
 2.3.2 Nonlinear Data Structures
 
 Nonlinear data structures organize data hierarchically or in an interconnected network.
@@ -243,19 +249,5 @@ Examples:
 
 • Applications: Used in social networks, web page ranking, and shortest path algorithms.
 
-
-
-
-
-<br> ![Indentation](https://img.shields.io/badge/_2._-Indentation-000080?style=for-the-badge&logo=C&logoColor=white)
-
-<br> <br> 
-
-<details>
-  <summary>Click to expand</summary>
-
-```html
-
-```
-
-</details> 
+</td></tr>
+</table>
