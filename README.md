@@ -546,31 +546,10 @@ Operations:
 | **Focus** | Focuses on what operations can be performed. | Focuses on how operations are implemented. |
 | **Implementation** | Independent of programming language and system. | Specifc to programming language and platform. |
 | **Abstraction Level** | High-level concept abstracting implementation details. | Low-level representation in memory. |
+| **Reusability** | Reusable across various implementations. | May not always be reusable without modifcation. |
+| **User Interaction** | Users interact with the operations defned by the ADT. | Users interact with the actual implementation. |
+| **Examples** | Stack, Queue, Set, List. | Array, Linked List, Hash Table, Tree. |
 |  |  |  |
-|  |  |  |
-
-
-
-
-Examples Stack, Queue, Set, List. Array, Linked List, Hash Table, Tree.
-
-Purpose Defnes the operations and behavior of data. Provides a way to implement the behavior of an
-
-ADT.
-
-User Interac-
-
-tion
-
-Users interact with the operations defned by the
-
-ADT.
-
-Users interact with the actual implementation.
-
-Reusability Reusable across various implementations. May not always be reusable without modifca-
-
-tion.
 
 </details>
 
