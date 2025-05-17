@@ -512,7 +512,7 @@ Operations:
 </td></tr>
 </table>
 
-<br> 🟠 Properties of ADTs
+<br> 🟠 Properties of ADTs:
 
 ```html
 
@@ -526,7 +526,7 @@ Operations:
 
 ```
 
-<br> 🟠 Benefts of Using ADTs
+<br> 🟠 Benefts of Using ADTs:
 
 ```html
 
