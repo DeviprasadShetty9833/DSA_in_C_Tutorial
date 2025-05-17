@@ -407,6 +407,95 @@ is the frst to be removed).
 ```
 </details> 
 
+<br> 🟠 Examples:
+
+List ADT:
+
+Domain: A finite sequence of elements.
+
+Operations:
+
+- Insert (add an element at a specific position).
+
+- Delete (remove an element from a specific position).
+
+- Traverse (access each element sequentially).
+
+- Search (find an element in the list).
+
+Stack ADT:
+
+Domain: A collection of elements where elements are added and removed in a Last In,␣
+
+↪First Out (LIFO) manner.
+
+Operations:
+
+- Push: Add an element to the top of the stack.
+
+- Pop: Remove and return the top element.
+
+- Peek/Top: Return the top element without removing it.
+
+- IsEmpty: Check if the stack is empty.
+
+Queue ADT:
+
+Domain: A collection of elements where elements are added at one end (rear) and␣
+
+↪removed from the other end (front), following a First In, First Out (FIFO)␣
+
+↪principle.
+
+Operations:
+
+- Enqueue: Add an element to the rear.
+
+- Dequeue: Remove and return the front element.
+
+- Peek/Front: Return the front element without removing it.
+
+- IsEmpty: Check if the queue is empty.
+
+Deque (Double-Ended Queue) ADT:
+
+Domain: A collection of elements where elements can be added or removed from both␣
+
+↪ends.
+
+Operations:
+
+- InsertFront, InsertRear.
+
+- DeleteFront, DeleteRear.
+
+- PeekFront, PeekRear.
+
+Priority Queue ADT:
+
+Domain: A collection of elements with associated priorities.
+
+Operations:
+
+- Insert: Add an element with a priority.
+
+- RemoveHighestPriority: Remove the element with the highest priority.
+
+Set ADT
+
+Domain: A collection of unique elements.
+
+Operations:
+
+- Insert: Add an element to the set.
+
+- Remove: Delete an element from the set.
+
+- Union: Combine two sets.
+
+- Intersection: Find common elements in two sets.
+
+- Difference: Find elements present in one set but not the other.
+
 </td></tr>
 </table>
-
