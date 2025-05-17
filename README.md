@@ -153,7 +153,11 @@ processing.
 </td></tr>
 </table>
 
-3 Classifcation of Data Structures
+<br> ![2.](https://img.shields.io/badge/_1]_-Classifcation_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<table>
+<tr><td>
+
 
 2.3.1 Linear Data Structures
 
