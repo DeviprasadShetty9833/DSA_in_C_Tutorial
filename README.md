@@ -319,8 +319,6 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <table>
 <tr><td>
 
-🟠 Operations:
-
 <details>
   <summary>Click to expand</summary>
 
@@ -364,6 +362,12 @@ perspective without focusing on its implementation.
 
 ▶️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
 
+<table>
+<tr><td>
+
+<details>
+  <summary>Click to expand</summary>
+
 🟠 Key Characteristics of ADT
 
 ```html
@@ -399,5 +403,8 @@ elements that can be stored in the stack.
 is the frst to be removed).
 
 ```
+</details> 
 
+</td></tr>
+</table>
 
