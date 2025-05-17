@@ -136,11 +136,11 @@
 
 1. Arrays: Used in image processing, databases, and matrix manipulation.
 
-2. Linked Lists: Basis for dynamic memory allocation, such as in compilers and real-time systems.
+2. Stacks: Used for managing function calls in programming and expression evaluation.
 
-3. Stacks: Used for managing function calls in programming and expression evaluation.
+3. Queues: Implemented in scheduling systems (CPU scheduling, printers).
 
-4. Queues: Implemented in scheduling systems (CPU scheduling, printers).
+4. Linked Lists: Basis for dynamic memory allocation, such as in compilers and real-time systems.
 
 5. Trees: Used in hierarchical databases, XML parsers, and fle systems.
 
