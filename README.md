@@ -321,7 +321,9 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 <details>
   <summary>Click to expand</summary>
-
+  
+<br> 
+  
 ```html
 
 1. Insertion: Adding an element to the data structure.
@@ -368,7 +370,7 @@ perspective without focusing on its implementation.
 <details>
   <summary>Click to expand</summary>
 
-🟠 Key Characteristics of ADT
+<br> 🟠 Key Characteristics of ADT
 
 ```html
 
@@ -382,7 +384,7 @@ perspective without focusing on its implementation.
 
 ```
 
-🟠 Components of an ADT
+<br> 🟠 Components of an ADT
 
 ```html
 
