@@ -74,7 +74,7 @@ processing.
 <details>
   <summary>Click to expand</summary>
 
-  Data structures can broadly be classifed into two categories:
+<br> Data structures can broadly be classifed into two categories:
   
 ```html
 
