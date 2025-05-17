@@ -181,8 +181,6 @@ processing.
 🟠 Examples:
 
 1. Array: A collection of elements stored in contiguous memory locations.
-  
-
 
 ```html
 
@@ -194,11 +192,13 @@ Operations:
 
 • Insertion/Deletion: Expensive in terms of shifting elements.
 
-• Applications: Used in matrices, image processing, and database indexing.
+Applications: Used in matrices, image processing, and database indexing.
 
 ```
 
 2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node. Types:
+
+```html
 
 • Singly Linked List: Points only to the next node.
 
@@ -208,7 +208,11 @@ Operations:
 
 Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memory usage due to pointers.
 
+```
+
 3. Stack: A collection following the Last In, First Out (LIFO) principle. Operations:
+
+```html
 
 • Push: Insert an element.
 
@@ -216,9 +220,13 @@ Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memo
 
 • Peek: View the top element.
 
-• Applications: Used in recursion, expression evaluation, and undo functionality.
+Applications: Used in recursion, expression evaluation, and undo functionality.
+
+```
 
 4. Queue: A collection following the First In, First Out (FIFO) principle. Types:
+
+```html
 
 • Simple Queue.
 
@@ -227,6 +235,8 @@ Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memo
 • Priority Queue.• Deque (Double-Ended Queue).
 
 • Applications: Scheduling algorithms, resource sharing in operating systems.
+
+```
 
 </td></tr>
 </table>
