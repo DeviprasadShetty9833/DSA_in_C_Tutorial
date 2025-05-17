@@ -563,3 +563,17 @@ Operations:
 ---
 
 # Data Structures 
+
+<br> ![1.](https://img.shields.io/badge/_1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![2.2](https://img.shields.io/badge/_2.2]_-Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![2.3](https://img.shields.io/badge/_2.3]_-Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![2.4](https://img.shields.io/badge/_2.4]_-Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)   
