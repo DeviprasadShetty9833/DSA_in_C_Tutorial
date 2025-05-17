@@ -175,6 +175,9 @@ processing.
 
 ```
 
+<details>
+  <summary>Click to expand</summary>
+
 <table>
 <tr><td>
 
@@ -247,6 +250,7 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 </td></tr>
 </table>
 
+</details> 
 
 <br> ![2.2](https://img.shields.io/badge/_2.2_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 <br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
@@ -260,6 +264,9 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 2. Provide efficient relationships between data.
 
 ```
+
+<details>
+  <summary>Click to expand</summary>
 
 <table>
 <tr><td>
@@ -300,6 +307,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 
 </td></tr>
 </table>
+
+</details> 
 
 </td></tr>
 </table>
