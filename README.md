@@ -31,6 +31,7 @@
 <details>
   <summary>Click to expand</summary>
 
+```html
  
 1. **Efficient Data Handling** : Data structures allow for efficient organization and manipulation of data, enabling faster
 processing.
@@ -47,23 +48,24 @@ processing.
 
    •  Compilers use stacks to evaluate expressions and manage function calls.
 
+```
 
 </details> 
 
 
-<br> ![1.2](https://img.shields.io/badge/_1.2_-Comments-000080?style=for-the-badge&logo=C&logoColor=white)   
+<br> ![1.2](https://img.shields.io/badge/_1.2_-Key_Components_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
   
-*Code* : 
 ```html
-# This is a single-line comment.
 
-""" This is a multi-line comment. """
 
-''' This is a multi-line comment. '''
+1. Data Organization: The arrangement of data in memory (e.g., continuous blocks in arrays).
 
+2. Data Manipulation: Operations like insertion, deletion, and updating of data.
+
+3. Access Mechanism: Determines how data can be retrieved and stored efciently.
 ```
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
