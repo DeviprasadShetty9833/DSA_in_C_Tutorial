@@ -577,3 +577,5 @@ Operations:
 <br> ![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <br> ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<br> ![status](https://img.shields.io/badge/status-upcoming-yellow)
