@@ -178,10 +178,10 @@ processing.
 
 ```
 
+🟠 Examples:
+
 <table>
 <tr><td>
-
-🟠 Examples:
 
 1. Array: A collection of elements stored in contiguous memory locations.
 
@@ -268,10 +268,10 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 
 ```
 
+🟠 Examples:
+
 <table>
 <tr><td>
-
-🟠 Examples:
 
 1. Trees: A hierarchical structure consisting of nodes, with one root node and child nodes.
 
@@ -409,6 +409,9 @@ is the frst to be removed).
 
 <br> 🟠 Examples:
 
+<table>
+<tr><td>
+
 List ADT:
 
 Domain: A finite sequence of elements.
@@ -496,6 +499,9 @@ Operations:
 - Intersection: Find common elements in two sets.
 
 - Difference: Find elements present in one set but not the other.
+
+</td></tr>
+</table>
 
 </td></tr>
 </table>
