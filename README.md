@@ -24,6 +24,7 @@
 <tr><td>
 
 <br> ▶️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
+
 <br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
 <br> ![1.1](https://img.shields.io/badge/_1.1_-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
