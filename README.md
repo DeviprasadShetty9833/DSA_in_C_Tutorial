@@ -319,6 +319,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <table>
 <tr><td>
 
+🟠 Operations:
+
 <details>
   <summary>Click to expand</summary>
 
