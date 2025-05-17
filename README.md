@@ -73,10 +73,10 @@ processing.
 
 <details>
   <summary>Click to expand</summary>
+
+  Data structures can broadly be classifed into two categories:
   
 ```html
-
-Data structures can broadly be classifed into two categories:
 
 1. Primitive Data Structures
    • Basic data types that are directly operated upon by machine-level instructions.
