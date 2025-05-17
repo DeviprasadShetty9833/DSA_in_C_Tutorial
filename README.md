@@ -60,7 +60,6 @@ processing.
   
 ```html
 
-
 1. Data Organization: The arrangement of data in memory (e.g., continuous blocks in arrays).
 
 2. Data Manipulation: Operations like insertion, deletion, and updating of data.
