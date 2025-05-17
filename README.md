@@ -304,7 +304,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 </td></tr>
 </table>
 
-Operations on Data Structures
+3] Operations on Data Structures
 
 1. Insertion: Adding an element to the data structure.
 
@@ -330,7 +330,7 @@ Operations on Data Structures
 
 • Example: Merging two sorted arrays.
 
-2.5 Abstract Data Type
+4] Abstract Data Type
 
 An Abstract Data Type (ADT) is a high-level description of a data structure that specifes its behavior from the user’s
 
@@ -338,7 +338,7 @@ perspective without focusing on its implementation. It defnes a set of values an
 
 data, abstracting away the underlying details.
 
-2.5.1 Key Characteristics of ADT
+4.1 Key Characteristics of ADT
 
 1. Encapsulation: Combines data and the operations that manipulate the data into a single unit.
 
@@ -350,7 +350,7 @@ data, abstracting away the underlying details.
 
 gramming language or system constraints.
 
-2.5.2 Components of an ADT
+4.2 Components of an ADT
 
 An ADT has the following components:
 
