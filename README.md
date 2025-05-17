@@ -321,6 +321,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <details>
   <summary>Click to expand</summary>
 
+```html
+
 1. Insertion: Adding an element to the data structure.
 
 • Example: Adding a node to a linked list.
@@ -344,6 +346,8 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 6. Merging: Combining two data structures into one.
 
 • Example: Merging two sorted arrays.
+
+```
 
 </details> 
 
