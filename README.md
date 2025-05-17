@@ -164,6 +164,9 @@ processing.
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 <br> ▶️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
 
+<details>
+  <summary>Click to expand</summary>
+
 <br> 🟠 Key Characteristics:
 
 ```html
@@ -174,9 +177,6 @@ processing.
 3. Fixed or variable size.
 
 ```
-
-<details>
-  <summary>Click to expand</summary>
 
 <table>
 <tr><td>
@@ -255,6 +255,9 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 <br> ![2.2](https://img.shields.io/badge/_2.2_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 <br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
+<details>
+  <summary>Click to expand</summary>
+
 <br> 🟠 Key Characteristics:
 
 ```html
@@ -264,9 +267,6 @@ Applications: Scheduling algorithms, resource sharing in operating systems.
 2. Provide efficient relationships between data.
 
 ```
-
-<details>
-  <summary>Click to expand</summary>
 
 <table>
 <tr><td>
