@@ -33,7 +33,7 @@
 
 <br> ![1.](https://img.shields.io/badge/1.-Add%20Contact-00599C?style=for-the-badge&labelColor=white)
 
-<br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)   
+<br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=lightblue)   
 
 <table>
 <tr><td>
