@@ -198,23 +198,7 @@ Applications: Used in matrices, image processing, and database indexing.
 
 ```
 
-2. Linked List: A collection of nodes, where each node contains data and a pointer to the next node.
-
-```html
-
-Types:
-
-• Singly Linked List: Points only to the next node.
-
-• Doubly Linked List: Points to both next and previous nodes.
-
-• Circular Linked List: Last node points to the frst node.
-
-Advantages: Dynamic size, efcient insertion/deletion. Disadvantages: Higher memory usage due to pointers.
-
-```
-
-3. Stack: A collection following the Last In, First Out (LIFO) principle. 
+2. Stack: A collection following the Last In, First Out (LIFO) principle. 
 
 ```html
 
@@ -230,7 +214,7 @@ Applications: Used in recursion, expression evaluation, and undo functionality.
 
 ```
 
-4. Queue: A collection following the First In, First Out (FIFO) principle. 
+3. Queue: A collection following the First In, First Out (FIFO) principle. 
 
 ```html
 
@@ -245,6 +229,24 @@ Types:
 • Deque (Double-Ended Queue).
 
 Applications: Scheduling algorithms, resource sharing in operating systems.
+
+```
+
+4. Linked List: A collection of nodes, where each node contains data and a pointer to the next node.
+
+```html
+
+Types:
+
+• Singly Linked List: Points only to the next node.
+
+• Doubly Linked List: Points to both next and previous nodes.
+
+• Circular Linked List: Last node points to the frst node.
+
+Advantages: Dynamic size, efficient insertion/deletion.
+
+Disadvantages: Higher memory usage due to pointers.
 
 ```
 
