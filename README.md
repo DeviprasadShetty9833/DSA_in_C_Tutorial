@@ -21,6 +21,7 @@
 4. Translate the meaning in simple English.
 5. Relate each line with an example to remember the flow.
 6. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
+7. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
 
 # Intro to DSA:
 
