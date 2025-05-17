@@ -328,22 +328,22 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 ```html
 
 1. Insertion: Adding an element to the data structure.
-• Example: Adding a node to a linked list.
+   • Example: Adding a node to a linked list.
 
 2. Deletion: Removing an element.
-• Example: Removing an element from a stack or queue.
+   • Example: Removing an element from a stack or queue.
 
 3. Traversal: Accessing each element for processing.
-• Example: Iterating through an array or linked list.
+   • Example: Iterating through an array or linked list.
 
 4. Searching: Finding a particular element.
-• Example: Linear search or binary search in arrays.
+   • Example: Linear search or binary search in arrays.
 
 5. Sorting: Arranging elements in a specifc order.
-• Example: Sorting an array using Bubble Sort or Quick Sort.
+   • Example: Sorting an array using Bubble Sort or Quick Sort.
 
 6. Merging: Combining two data structures into one.
-• Example: Merging two sorted arrays.
+   • Example: Merging two sorted arrays.
 
 ```
 
