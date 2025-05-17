@@ -65,6 +65,7 @@ processing.
 2. Data Manipulation: Operations like insertion, deletion, and updating of data.
 
 3. Access Mechanism: Determines how data can be retrieved and stored efciently.
+
 ```
 
 </details> 
@@ -87,6 +88,34 @@ processing.
    • Examples:
       - Linear: Array, Linked List, Stack, Queue.
       - Nonlinear: Tree, Graph.
+
+```
+
+</details> 
+
+<br> ![1.4](https://img.shields.io/badge/_1.4_-Types_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
+
+<details>
+  <summary>Click to expand</summary>
+  
+```html
+
+1. Linear Data Structures:
+   • Data is arranged sequentially, and each element is connected to its previous and next element.
+   • Examples: Arrays, Linked Lists, Stacks, Queues.
+
+2. Nonlinear Data Structures:
+   • Data is arranged in a hierarchical manner, with no strict sequence.
+   • Examples: Trees, Graphs.
+
+3. Static Data Structures:
+   • Fixed size; memory is allocated at compile-time.
+   • Example: Array.
+
+4. Dynamic Data Structures:
+   • Flexible size; memory is allocated and deallocated at runtime.
+   • Example: Linked List.
+
 ```
 
 </details> 
