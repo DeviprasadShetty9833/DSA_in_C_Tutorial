@@ -404,8 +404,7 @@ elements that can be stored in the stack.
 
 is the frst to be removed).
 
-```
-</details> 
+``` 
 
 <br> 🟠 Examples:
 
@@ -502,6 +501,8 @@ Operations:
 
 </td></tr>
 </table>
+
+</details>
 
 </td></tr>
 </table>
