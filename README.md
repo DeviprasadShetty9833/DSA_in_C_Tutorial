@@ -22,19 +22,8 @@
 
 <br> ![Overview](https://img.shields.io/badge/_1._-Overview%20of%20Data%20Structure-000080?style=for-the-badge&logo=C&logoColor=white)   
 
-<details>
-  <summary>Click to expand</summary>
-
-  *Code* : 
-```html 
-print("Hello World!")
-
-```
-*Output* : `Hello World!`    
-> - Here, print() is a function that displays the msg 'Hello World' on the console.
-
-</details> 
-
+<br> ▶️ A data structure is a way of organizing and storing data so that it can be accessed and worked with efciently. 
+<br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
 <br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-000080?style=for-the-badge&logo=C&logoColor=white)   
 
