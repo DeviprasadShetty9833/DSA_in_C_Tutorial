@@ -14,8 +14,9 @@
 |---|---|---|
 <br> 
 
+# How to learn DSA:
 
-# Intro to DSA
+# Intro to DSA:
 
 ---
 
@@ -562,7 +563,7 @@ Operations:
 
 ---
 
-# Data Structures 
+# Data Structures:
 
 <!-- 1) Make diff. repositories for each.
 2) Copy their Readme.md and paste it here.
