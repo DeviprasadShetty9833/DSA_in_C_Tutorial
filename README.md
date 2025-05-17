@@ -20,7 +20,7 @@
 <table>
 <tr><td>
 
-<br> ![DSA](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-000080?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![DSA](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
@@ -36,7 +36,7 @@ print("Hello World!")
 </details> 
 
 
-<br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-000080?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
@@ -52,7 +52,7 @@ print("Hello World!")
 </details> 
 
 
-<br> ![Comments](https://img.shields.io/badge/_2._-Comments-000080?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![Comments](https://img.shields.io/badge/_2._-Comments-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
   <summary>Click to expand</summary>
@@ -80,7 +80,7 @@ print("Hello World!")
 
 
 
-<br> ![Indentation](https://img.shields.io/badge/_2._-Indentation-000080?style=for-the-badge&logo=python&logoColor=white)
+<br> ![Indentation](https://img.shields.io/badge/_2._-Indentation-000080?style=for-the-badge&logo=C&logoColor=white)
 
 <br> ▶️ Indentation is used to define blocks of code.
 <br> ▶️ All statements with the same level of indentation are considered part of the same block.
