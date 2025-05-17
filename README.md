@@ -450,7 +450,7 @@ Operations:
 
 ```
 
-Queue ADT:
+3. Queue ADT:
 
 ```html
 
@@ -468,7 +468,7 @@ Operations:
 
 ```
 
-Deque (Double-Ended Queue) ADT:
+4. Deque (Double-Ended Queue) ADT:
 
 ```html
 
@@ -484,7 +484,7 @@ Operations:
 
 ```
 
-Priority Queue ADT:
+5. Priority Queue ADT:
 
 ```html
 
@@ -498,7 +498,7 @@ Operations:
 
 ```
 
-Set ADT:
+6. Set ADT:
 
 ```html
 
