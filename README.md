@@ -381,11 +381,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <br> ⏺️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
 
 <details>
-  <summary>
-    
-  ![Expand](https://img.shields.io/badge/_🔻_-Click_to_Expand_↓_-blue?style=for-the-badge&labelColor=white) 
-  
-  </summary>
+  <summary>🔻 Click to Expand ↓</summary>
 
 <br> 🟠 Key Characteristics:
 
