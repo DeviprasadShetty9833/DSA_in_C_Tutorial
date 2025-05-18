@@ -576,8 +576,6 @@ Operations:
 
 ---
 
-[Go to initLinkedList](#DSA_in_C_Tutorial)
-
 # Data Structures:
 
 <!-- 1) Make diff. repositories for each.
@@ -598,3 +596,5 @@ Operations:
 
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
+
+ [Go to the TOP](#DSA_in_C_Tutorial)
