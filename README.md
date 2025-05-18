@@ -576,7 +576,7 @@ Operations:
 
 ---
 
-[Go to initLinkedList](#Abstract)
+[Go to initLinkedList](#My_Intro)
 
 # Data Structures:
 
