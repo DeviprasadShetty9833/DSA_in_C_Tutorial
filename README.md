@@ -597,4 +597,4 @@ Operations:
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
- [Go to the TOP](#DSA_in_C_Tutorial)
+ <br> [![TOP](https://img.shields.io/badge/_🔺_-Go_to_TOP-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)](#DSA_in_C_Tutorial)
