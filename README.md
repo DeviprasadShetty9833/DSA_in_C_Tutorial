@@ -38,9 +38,9 @@
 <table>
 <tr><td>
 
-<br> ▶️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efficiently. 
+<br> ⏺️ A Data Structure is a way of organizing and storing data so that it can be accessed and worked with efficiently. 
 
-<br> ▶️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
+<br> ⏺️ They determine the organization of data, the operations that can be performed on the data, and the efficiency of these operations.
 
 <br> ![1.1](https://img.shields.io/badge/_1.1_-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
@@ -140,11 +140,11 @@
 <details>
   <summary>Click to expand</summary>
 
-<br> ▶️ A solid understanding of data structures is essential for designing efcient algorithms and writing optimized programs.
+<br> ⏺️ A solid understanding of data structures is essential for designing efcient algorithms and writing optimized programs.
 
-<br> ▶️ Selecting the right data structure for a given application is key to balancing speed, memory, and complexity. 
+<br> ⏺️ Selecting the right data structure for a given application is key to balancing speed, memory, and complexity. 
 
-<br> ▶️ As computational demands grow, the choice and implementation of data structures become increasingly critical in developing scalable solutions.
+<br> ⏺️ As computational demands grow, the choice and implementation of data structures become increasingly critical in developing scalable solutions.
   
 ```html
 
@@ -175,7 +175,7 @@
 <tr><td>
 
 <br> ![2.1](https://img.shields.io/badge/_2.1_-Linear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
-<br> ▶️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
+<br> ⏺️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
 
 <details>
   <summary>Click to expand</summary>
@@ -270,7 +270,7 @@ Disadvantages: Higher memory usage due to pointers.
 </details> 
 
 <br> ![2.2](https://img.shields.io/badge/_2.2_-Nonlinear_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
-<br> ▶️ Nonlinear data structures organize data hierarchically or in an interconnected network.
+<br> ⏺️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
 <details>
   <summary>Click to expand</summary>
@@ -376,9 +376,9 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <table>
 <tr><td>
 
-<br> ▶️ An Abstract Data Type (ADT) is a high-level description of a data structure that specifes its behavior from the user’s perspective without focusing on its implementation. 
+<br> ⏺️ An Abstract Data Type (ADT) is a high-level description of a data structure that specifes its behavior from the user’s perspective without focusing on its implementation. 
 
-<br> ▶️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
+<br> ⏺️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
 
 <details>
   <summary>Click to expand</summary>
