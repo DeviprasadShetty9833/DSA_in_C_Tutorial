@@ -381,7 +381,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <br> ⏺️ It defnes a set of values and operations that can be performed on the data, abstracting away the underlying details.
 
 <details>
-  <summary>🔻 Click to Expand ↓</summary>
+  <summary> Click to Expand 🔻</summary>
 
 <br> 🟠 Key Characteristics:
 
