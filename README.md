@@ -576,7 +576,7 @@ Operations:
 
 ---
 
-[Go to initLinkedList](#My_Intro)
+[Go to initLinkedList](#DSA_in_C_Tutorial)
 
 # Data Structures:
 
