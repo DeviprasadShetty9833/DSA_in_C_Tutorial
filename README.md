@@ -15,17 +15,18 @@
 <br> 
 
 # How to learn DSA:
-1. Select a function.
-2. Learn the syntax.
-3. Find the meaning of each line.
-4. Translate the meaning in simple English.
-5. Relate each line with an example to remember the flow.
-6. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
-7. Use the Feynman Technique:
+1. Select a function & Learn the syntax.
+2. Use the Bloom's Taxonomy:
+> Remember, Understand, Apply, Analyze, Evaluate, Create.
+3. Find the meaning of each line & Translate it in simple English.
+4. For every code snippet, label it into a step-by-step story.
+5. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
+6. Use the Feynman Technique:
 > “If you can’t explain it simply, you don’t understand it well enough.”
-8. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
-9. Rebuild the Logic and Debug Yourself.
-10. Test your code multiple times with different inputs.
+7. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
+8. Rebuild the Logic and Debug Yourself.
+9. Test your code multiple times with different inputs.
+10. Build small projects, Solve questions and Keep practicing consistently.
 
 # Intro to DSA:
 
