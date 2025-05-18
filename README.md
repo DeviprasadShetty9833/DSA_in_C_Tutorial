@@ -45,7 +45,7 @@
 <br> ![1.1](https://img.shields.io/badge/_1.1_-Importance%20of%20Data%20Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 ```html
  
@@ -71,7 +71,7 @@
 <br> ![1.2](https://img.shields.io/badge/_1.2_-Key_Components_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
   
 ```html
 
@@ -88,7 +88,7 @@
 <br> ![1.3](https://img.shields.io/badge/_1.3_-Classifcation_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 <br> 🟠 Data structures can broadly be classifed into two categories:
   
@@ -111,7 +111,7 @@
 <br> ![1.4](https://img.shields.io/badge/_1.4_-Types_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
   
 ```html
 
@@ -138,7 +138,7 @@
 <br> ![1.5](https://img.shields.io/badge/_1.5_-Real_Life_Applications_of_Data_Structures-000080?style=for-the-badge&logo=C&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 <br> ⏺️ A solid understanding of data structures is essential for designing efcient algorithms and writing optimized programs.
 
@@ -178,7 +178,7 @@
 <br> ⏺️ Linear data structures organize data in a sequential manner, where elements are arranged in a line. 
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 <br> 🟠 Key Characteristics:
 
@@ -273,7 +273,7 @@ Disadvantages: Higher memory usage due to pointers.
 <br> ⏺️ Nonlinear data structures organize data hierarchically or in an interconnected network.
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 <br> 🟠 Key Characteristics:
 
@@ -338,7 +338,7 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <tr><td>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
   
 <br> 
   
