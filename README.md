@@ -15,9 +15,10 @@
 <br> 
 
 # How to learn DSA:
-1. Select a function & Learn the syntax.
-2. Use the Bloom's Taxonomy:
+
+1. Use the Bloom's Taxonomy:
 > Remember, Understand, Apply, Analyze, Evaluate, Create.
+2. Select a function & Learn the syntax.
 3. Find the meaning of each line & Translate it in simple English.
 4. For every code snippet, label it into a step-by-step story.
 5. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
