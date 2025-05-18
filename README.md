@@ -19,9 +19,9 @@
 1. Use the Bloom's Taxonomy:
 > Remember, Understand, Apply, Analyze, Evaluate, Create.
 2. Select a function & Learn the syntax.
-3. Find the meaning of each line & Translate it in simple English.
+3. Find the meaning of each line & Translate it to Algorithm (simple English).
 4. For every code snippet, label it into a step-by-step story.
-5. Practice! Practice! Practice! 'N' times till you remember the code in simple English.
+5. Practice! Practice! Practice! 'N' times till you remember the Algorithm (code in simple English).
 6. Use the Feynman Technique:
 > “If you can’t explain it simply, you don’t understand it well enough.”
 7. Use websites like CodeChef, Python Tutor to Trace variables and pointers and manually simulate the input and changes in Memory.
