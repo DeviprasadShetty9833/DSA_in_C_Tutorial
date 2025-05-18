@@ -576,6 +576,8 @@ Operations:
 
 ---
 
+[Go to initLinkedList](#Abstract)
+
 # Data Structures:
 
 <!-- 1) Make diff. repositories for each.
