@@ -383,7 +383,9 @@ Applications: Used in social networks, web page ranking, and shortest path algor
 <details>
   <summary>
     
-  ![Expand](https://img.shields.io/badge/_🔻_-Click_to_Expand_↓_-blue?style=for-the-badge&labelColor=white) </summary>
+  ![Expand](https://img.shields.io/badge/_🔻_-Click_to_Expand_↓_-blue?style=for-the-badge&labelColor=white) 
+  
+  </summary>
 
 <br> 🟠 Key Characteristics:
 
