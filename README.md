@@ -597,6 +597,11 @@ Operations:
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
+# 🙋‍♂️ Support
+If you like ❤️ this project, give it a ⭐ and share it with friends
+
+ ---
+
 | [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#DSA_in_C_Tutorial) | [![My_Portfolio](https://img.shields.io/badge/Back_to-My_Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio) |
 |---|---|
  
