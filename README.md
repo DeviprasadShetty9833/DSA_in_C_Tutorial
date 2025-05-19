@@ -598,7 +598,7 @@ Operations:
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
 # 🙋‍♂️ Support
-If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
 
  ---
 
