@@ -14,6 +14,13 @@
 |---|---|---|
 <br> 
 
+---
+
+| [![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) |
+|---|
+
+---
+
 # How to learn DSA:
 
 1. Use the Bloom's Taxonomy:
