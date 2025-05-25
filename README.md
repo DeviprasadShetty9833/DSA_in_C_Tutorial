@@ -23,6 +23,9 @@
 
 # How to learn DSA:
 
+<table>
+<tr><td>
+
 1. Use the Bloom's Taxonomy:
 > Remember, Understand, Apply, Analyze, Evaluate, Create.
 2. Select a function & Learn the syntax.
@@ -36,9 +39,10 @@
 9. Test your code multiple times with different inputs.
 10. Build small projects, Solve questions and Keep practicing consistently.
 
-# Intro to DSA:
+</td></tr>
+</table>
 
----
+# Intro to DSA:
 
 <br> ![1.](https://img.shields.io/badge/_1]_-Overview%20of%20Data%20Structure-000080?style=for-the-badge&labelColor=white&logo=C&logoColor=blue)   
 
