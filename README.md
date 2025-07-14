@@ -211,6 +211,22 @@
 
 ```html
 
+Merits:
+
+- Data is Homogeneous
+
+- Size of Array is known.
+
+- For fast Access through Indexing.
+
+- contiguous memory blocks.
+
+Demerits:
+
+-  Fixed Size, Wastes memory or Overflows. (✅ Linked List / Dynamic Arrays like Python’s list)
+
+- Inserting / Deleting at the beginning or middle requires shifting elements. (✅ Use Linked List / Deque / Dynamic List)
+
 Operations:
 
 - Accessing: Constant time (using index).
