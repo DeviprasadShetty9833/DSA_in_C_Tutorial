@@ -223,7 +223,7 @@ Merits:
 
 Demerits:
 
--  Fixed Size, Wastes memory or Overflows. (✅ Linked List / Dynamic Arrays like Python’s list)
+- Fixed Size, Wastes memory or Overflows. (✅ Linked List / Dynamic Arrays like Python’s list)
 
 - Inserting / Deleting at the beginning or middle requires shifting elements. (✅ Use Linked List / Deque / Dynamic List)
 
