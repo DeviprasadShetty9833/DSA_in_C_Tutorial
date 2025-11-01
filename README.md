@@ -634,6 +634,7 @@ Operations:
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
 | Searching | Sorting | String | Traversal | Graph Algorithms |   |   |   |
+|   |   |   |   |   |   |   |   |   |
 
 </td></tr>
 </table>
@@ -646,7 +647,7 @@ Operations:
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
 | Brute Force | Divide & Conquer | Greedy | Dynamic Programming | Backtracking |   |   |   |
-
+|   |   |   |   |   |   |   |   |   |
 
 </td></tr>
 </table>
