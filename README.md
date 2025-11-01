@@ -629,10 +629,10 @@ Operations:
 <table>
 <tr><td>
 
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-| Algo Types | Searching | Sorting | String |   |   |   |   |
-| Algo Techniques |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| Algo Types | Searching | Sorting | String | Graph Algorithms |   |   |   |   |
+| Algo Techniques | Brute Force | Divide & Conquer | Greedy | Dynamic Programming | Backtracking |
 
 </td></tr>
 </table>
