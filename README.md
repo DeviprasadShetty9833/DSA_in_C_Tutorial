@@ -612,10 +612,11 @@ Operations:
 <table>
 <tr><td>
   
-|   |
-|---|
-| [![1.1](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Stack.c/tree/main) | ![2.1](https://img.shields.io/badge/Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.2](https://img.shields.io/badge/Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.3](https://img.shields.io/badge/Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.4](https://img.shields.io/badge/Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | [![3.1](https://img.shields.io/badge/Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) | ![3.2](https://img.shields.io/badge/Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) | ![4.1](https://img.shields.io/badge/Binary_Search_Tree-000080?style=for-the-badge&logo=C&logoColor=white) |
-|   |
+|   |   |   |   |
+|---|---|---|---|
+| [![1.1](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Stack.c/tree/main) | ![2.1](https://img.shields.io/badge/Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.2](https://img.shields.io/badge/Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.3](https://img.shields.io/badge/Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.4](https://img.shields.io/badge/Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
+| [![3.1](https://img.shields.io/badge/Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) | ![3.2](https://img.shields.io/badge/Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) | ![4.1](https://img.shields.io/badge/Binary_Search_Tree-000080?style=for-the-badge&logo=C&logoColor=white) |
+|   |   |   |   |
 
 </td></tr>
 </table>
