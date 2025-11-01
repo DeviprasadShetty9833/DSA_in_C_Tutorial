@@ -629,10 +629,10 @@ Operations:
 <table>
 <tr><td>
 
-|   |   |   |   |
-|---|---|---|---|
-| Types |   |   |   |
-| Techniques |   |   |   |
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+| Algo Types | Searching | Sorting | String |   |   |   |   |
+| Algo Techniques |   |   |   |
 
 </td></tr>
 </table>
