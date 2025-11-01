@@ -626,13 +626,27 @@ Operations:
 
 # Algorithms:
 
+- Algorithm Types:
+
 <table>
 <tr><td>
 
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
-| Algo Types | Searching | Sorting | String | Traversal | Graph Algorithms |   |   |   |
-| Algo Techniques | Brute Force | Divide & Conquer | Greedy | Dynamic Programming | Backtracking |
+| Searching | Sorting | String | Traversal | Graph Algorithms |   |   |   |
+
+</td></tr>
+</table>
+
+- Algorithm Techniques:
+
+<table>
+<tr><td>
+
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| Brute Force | Divide & Conquer | Greedy | Dynamic Programming | Backtracking |   |   |   |
+
 
 </td></tr>
 </table>
