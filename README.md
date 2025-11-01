@@ -609,24 +609,22 @@ Operations:
 2) Copy their Readme.md and paste it here.
 3) Delete the repos. -->
 
+<table>
+<tr><td>
+  
 |   |
 |---|
-| [![1.1](https://img.shields.io/badge/_1.1]_-Stack-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Stack.c/tree/main) | 
-| ![2.1](https://img.shields.io/badge/_2.1]_-Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | 
-| ![2.2](https://img.shields.io/badge/_2.2]_-Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
-| ![2.3](https://img.shields.io/badge/_2.3]_-Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
-| ![2.4](https://img.shields.io/badge/_2.4]_-Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) |
-| [![3.1](https://img.shields.io/badge/_3.1]_-Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) |
-| ![3.2](https://img.shields.io/badge/_3.2]_-Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) |
-| ![4.1](https://img.shields.io/badge/_4.1]_-Binary_Search_Tree-000080?style=for-the-badge&logo=C&logoColor=white) |
+| [![1.1](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Stack.c/tree/main) | ![2.1](https://img.shields.io/badge/Linear_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.2](https://img.shields.io/badge/Double_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.3](https://img.shields.io/badge/Circular_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | ![2.4](https://img.shields.io/badge/Priority_Queue-000080?style=for-the-badge&logo=C&logoColor=white) | [![3.1](https://img.shields.io/badge/Singly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c) | ![3.2](https://img.shields.io/badge/Doubly_Linked_List-000080?style=for-the-badge&logo=C&logoColor=white) | ![4.1](https://img.shields.io/badge/Binary_Search_Tree-000080?style=for-the-badge&logo=C&logoColor=white) |
 |   |
 
+</td></tr>
+</table>
 
  ![status](https://img.shields.io/badge/Status-Upcoming-yellow)
 
  # Algorithms:
 
-# 🙋‍♂️ Support
+# 🙋‍♂️ Suppor
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
 
  ---
