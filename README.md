@@ -622,7 +622,9 @@ Operations:
 |   |
 
 
- ![status](https://img.shields.io/badge/status-upcoming-yellow)
+ ![status](https://img.shields.io/badge/Status-Upcoming-yellow)
+
+ # Algorithms:
 
 # 🙋‍♂️ Support
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
