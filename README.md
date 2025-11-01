@@ -631,7 +631,7 @@ Operations:
 
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
-| Algo Types | Searching | Sorting | String | Graph Algorithms |   |   |   |   |
+| Algo Types | Searching | Sorting | String | Traversal | Graph Algorithms |   |   |   |
 | Algo Techniques | Brute Force | Divide & Conquer | Greedy | Dynamic Programming | Backtracking |
 
 </td></tr>
