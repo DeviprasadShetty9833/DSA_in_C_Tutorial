@@ -1,4 +1,4 @@
-# DSA_in_C_Tutorial
+# DSA_Journal( C Programming )
 
 
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
