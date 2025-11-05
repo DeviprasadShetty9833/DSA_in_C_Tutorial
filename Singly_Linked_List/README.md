@@ -77,7 +77,7 @@
 
 # 🔎  Insertion, Deletion, and Traversal of SLL.
 
-📂 Source code to implement the basic operations (insertion, deletion, and traversal) of a singly linked list ( file : [src.c](https://github.com/DeviprasadShetty9833/Singly_Linked_List.c/blob/a17ce82cc276b7feacf7bbe80e9e9f04746a487f/src.c) )
+📂 Source code to implement the basic operations (insertion, deletion, and traversal) of a singly linked list ( file : [src.c](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/741c3bf53f36926d519a130899a281c7d61114e2/Singly_Linked_List/src/Singly_Linked_List.c) )
 
 <table>
 <tr><td>
