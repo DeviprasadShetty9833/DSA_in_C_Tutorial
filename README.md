@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/67a6d5de35ddc6580d7dad606644d5e587efe5f1/assets/DSA.jpg" alt="DSA - Placements ke saath bhi, Placements ke baad bhi" width="210">
-<img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/a47067eaad6e394fe79b05f9b083903e7ac7172b/assets/DSA1.png" alt="O(n³)" width="220">
+<img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/67a6d5de35ddc6580d7dad606644d5e587efe5f1/assets/DSA.jpg" alt="DSA - Placements ke saath bhi, Placements ke baad bhi" width="220">
+<img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/a47067eaad6e394fe79b05f9b083903e7ac7172b/assets/DSA1.png" alt="O(n³)" width="230">
 <img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/a47067eaad6e394fe79b05f9b083903e7ac7172b/assets/DSA2.jpeg" alt="DSA likes me" width="200">
 
 </div>
