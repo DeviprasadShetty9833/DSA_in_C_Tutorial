@@ -41,7 +41,9 @@
 
 <div align="center">
   
-![image](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/67a6d5de35ddc6580d7dad606644d5e587efe5f1/assets/DSA.jpg)
+![image]()
+
+<img src="https://github.com/DeviprasadShetty9833/DSA_Journal/blob/67a6d5de35ddc6580d7dad606644d5e587efe5f1/assets/DSA.jpg" alt="DSA - Placements ke saath bhi, Placements ke baad bhi" width="200">
 
 </div>
 
