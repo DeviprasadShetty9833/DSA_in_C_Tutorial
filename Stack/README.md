@@ -22,7 +22,7 @@
 
 # Stack Using Linked List
 
-📂 Source code to implement a Stack data structure using a Linked List ( file : [src.c](DSA_Journal/Stack/src/Stack_using_Linked_List.c) )
+📂 Source code to implement a Stack data structure using a Linked List ( file : [src.c](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/00da820d640d5477dfe4c5308a75e5eabb31abde/Stack/src/Stack_using_Linked_List.c) )
 
 # Stack Using Array
 
