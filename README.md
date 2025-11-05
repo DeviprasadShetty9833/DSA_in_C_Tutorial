@@ -40,7 +40,9 @@
 10. Build small projects, Solve questions and Keep practicing consistently.
 
 <div align="center">
+  
 ![image](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/67a6d5de35ddc6580d7dad606644d5e587efe5f1/assets/DSA.jpg)
+
 </div>
 
 </td></tr>
