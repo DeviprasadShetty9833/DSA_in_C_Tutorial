@@ -16,7 +16,7 @@
 
 ---
 
-| [![DSA_Prep_Qns](https://img.shields.io/badge/Back_to-DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/README.md) | [![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) |
+| [![DSA_Prep_Qns](https://img.shields.io/badge/Back_to-DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) | [![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) |
 |---|---|
 
 ---
