@@ -30,7 +30,7 @@ public:
             cout << "Stack Overflow! Cannot push " << elem << endl;
             return;
         }
-        arr[++top] = elem;
+        arr[++top] = elem;        // Increment top and insert element
         cout << elem << " pushed onto stack." << endl;
     }
 
@@ -40,13 +40,13 @@ public:
             cout << "Stack Underflow! Cannot pop." << endl;
             return -1; // Return error value
         }
-        return arr[top--];
+        return arr[top--];  // Return top element and decrement top
     }
 
     // Function to display stack contents
     void display() {
         if (isEmpty()) {
-            cout << "Stack is empty." << endl;
+            cout << "Stack is empty." << endl;  
             return;
         }
 
