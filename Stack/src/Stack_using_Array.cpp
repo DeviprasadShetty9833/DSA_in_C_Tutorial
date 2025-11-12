@@ -1,5 +1,5 @@
 #include <iostream>
-#define MAX 100
+#define MAX 100    // Maximum size of the stack
 using namespace std;
 
 // Stack class definition
