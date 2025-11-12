@@ -16,12 +16,12 @@ public:
 
     // Function to check if stack is full
     bool isFull() {
-        return top == MAX - 1;
+        return top == MAX - 1;    // Stack is full when top reaches MAX-1
     }
 
     // Function to check if stack is empty
     bool isEmpty() {
-        return top == -1;
+        return top == -1;         // Stack is empty when top is -1
     }
 
     // Function to push an element onto the stack
