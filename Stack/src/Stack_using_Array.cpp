@@ -11,7 +11,7 @@ private:
 public:
     // Constructor to initialize stack
     Stack() {
-        top = -1;
+        top = -1;  // -1 indicates stack is empty
     }
 
     // Function to check if stack is full
