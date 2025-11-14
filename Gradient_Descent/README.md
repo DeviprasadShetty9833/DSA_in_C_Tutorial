@@ -138,28 +138,12 @@ int main() {
 ---
 
 
-📌 Convergence
+📌 Key Takeaways 
 
-Algorithm stops when:
-
-|x_next - x_current| < tolerance
-
-This means:
-
-Step size became tiny
-
-Valley bottom reached
-
-Slope is ≈ zero
-
----
-
-📌 10. Key Takeaways 
-
-✔ Gradient Descent is an iterative optimization algorithm.
-✔ Moves in the direction of negative gradient.
-✔ Uses learning rate to control step size.
-✔ Stops when movement between steps is very small.
-✔ Useful for minimizing functions and finding roots.
-✔ Used everywhere in AI, ML, and optimization.
+- Gradient Descent is an iterative optimization algorithm.
+- Moves in the direction of negative gradient.
+- Uses learning rate to control step size.
+- Stops when movement between steps is very small.
+- Useful for minimizing functions and finding roots.
+- Used everywhere in AI, ML, and optimization.
 
