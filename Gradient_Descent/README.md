@@ -28,8 +28,8 @@ This function has roots at x = 2 and x = 3.
 At each step( x ), Gradient Descent:
 
 1. Calculates the value of the function (height of mountain).
-2. Calculates the derivative (slope).
-3. Computes the gradient of the cost function.
+2. Calculates the derivative (how steep the slope is).
+3. Computes the gradient of the cost function (tells: how far & in which direction to move).
 4. Moves a little down the slope:
 
 ```
