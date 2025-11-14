@@ -60,7 +60,7 @@ Starting at x = 2.52:
 2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
 
 7. Slope becomes almost flat
-8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3)
+8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3, steps become small, slope → 0)
 
 ---
 
