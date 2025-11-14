@@ -52,7 +52,7 @@ smaller slopes → smaller steps → approach to minimum
 2. Derivative: f'(x) = 2x – 5
 3. Cost: f(x)²
 4. Gradient: 2 * f(x) * f'(x)  ...( Derivative of Cost )
-
+5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. 0.01 = small safe step )
 
 Starting at x = 2.52:
 
