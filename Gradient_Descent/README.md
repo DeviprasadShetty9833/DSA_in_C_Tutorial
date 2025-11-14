@@ -48,6 +48,12 @@ smaller slopes → smaller steps → approach to minimum
 
 📌 Step-By-Step Example
 
+1. Polynomial: f(x) = x² – 5x + 6
+2. Derivative: f'(x) = 2x – 5
+3. Cost: f(x)²
+4. Gradient: 2 * f(x) * f'(x)
+
+
 Starting at x = 2.52:
 
 1. Compute height → slightly negative
