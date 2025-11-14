@@ -13,15 +13,12 @@ User Intervention	| Minimal	| Requires tuning of parameters (mutation rate, cros
 Steps:
 
 1. Select Encoding type
-
 2. Choose population size
-
 3. Randomly choose initial population
-
 4. Select parental chromosomes
-
-5. Crossover and mutation
-
+5. Crossover and mutatio
 6. Evaluation of offspring
-
 7. If stopping criteria not reached, go to step 4
+
+
+Eg. Maximize the f(x) = x², where x ranges from 0 to 31.
