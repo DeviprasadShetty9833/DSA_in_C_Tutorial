@@ -19,3 +19,17 @@ For a B-tree of order m:
 |--|--|--|
 Key | ⌈m/2⌉ - 1 | m-1 |
 Children | ⌈m/2⌉ | m |
+
+*Structure:*
+```
+| Bp | 20 | Dp | Bp | 50 | Dp | Bp |
+```
+
+Bp →  Block pointer → Points to other node
+Key →  Key value
+Dp →  Data pointer →  points to Data
+
+*Formula:*
+```html
+nBp + (n-1)key +(n - 1) Dp <= Block size
+```
