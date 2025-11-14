@@ -89,28 +89,20 @@ d/dx( f(x)² ) = 2 * f(x) * f'(x)
 *Algorithm:*
 
 Input:
-
-Function f(x)
-
-Derivative f'(x)
-
-Learning rate α
-
-Initial guess x_0
-
-Tolerance ε
-
+- Function f(x)
+- Derivative f'(x)
+- Learning rate α
+- Initial guess x_0
+- Tolerance ε
 
 Output:
-
-Approximate value of  where the function is minimum (or root when using )
-
+- Approximate value of x where the function is minimum (or root when using f(x)²)
 
 ```c
 Step 1: Initialize
 
 1. Choose an initial point: x = x_0
-2. Set tolerance .
+2. Set tolerance ε.
 3. Set maximum iterations.
 
 ---
@@ -133,7 +125,7 @@ For each iteration:
 
 Step 3: Return Result
 
-Return the final value of  as the approximate solution.
+Return the final value of x as the approximate solution.
 
 ```
 
