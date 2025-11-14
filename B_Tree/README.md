@@ -35,3 +35,51 @@ Children | ⌈m/2⌉ | m |
 ```html
 nBp + (n-1)key +(n - 1) Dp <= Block size
 ```
+
+1. Searching
+
+2. Insertion
+
+*Example:*
+```html
+Insert: 10, 20, 30, 40, 50
+
+Step 1:
+
+  [10]
+
+Step 2:
+
+  [10, 20]
+
+Step 3:
+
+  [10, 20, 30] → Overflow!
+
+Split: [20] becomes root
+      /    \
+   [10]    [30]
+
+Step 4:
+
+         [20] 
+        /    \
+     [10]    [30, 40]
+
+Step 5:
+
+         [20] 
+        /    \
+     [10]    [30, 40, 50] → Overflow!
+
+Split:  [20, 40] becomes root
+        /   \   \
+     [10]   [30] [50]
+
+
+
+```
+
+
+
+3. Deletion
