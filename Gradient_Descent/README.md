@@ -45,6 +45,32 @@ smaller slopes → smaller steps → approach to minimum
 
 ---
 
+
+📌 Step-By-Step Example
+
+Starting at x = 2.52:
+
+1. Compute height → slightly negative
+
+
+2. Compute slope → slightly positive
+
+
+3. Gradient becomes small
+
+
+4. x moves a little to the right:
+
+2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
+
+
+5. Slope becomes almost flat
+
+
+6. Algorithm stops near x = 3, which is a true root
+
+---
+
 📌 Visual Analogy
 
 Concept	Meaning
@@ -136,30 +162,6 @@ int main() {
 
 ---
 
-📌 Step-By-Step Example (Easy to Understand)
-
-Starting at x = 2.52:
-
-1. Compute height → slightly negative
-
-
-2. Compute slope → slightly positive
-
-
-3. Gradient becomes small
-
-
-4. x moves a little to the right:
-
-2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
-
-
-5. Slope becomes almost flat
-
-
-6. Algorithm stops near x = 3, which is a true root
-
----
 
 📌 Convergence
 
