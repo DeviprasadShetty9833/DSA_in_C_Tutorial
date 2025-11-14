@@ -32,7 +32,7 @@ At each step( x ), Gradient Descent:
 3. Computes the gradient of the cost function.
 4. Moves a little down the slope:
 
-```
+```c
 x_next = x_current - η • gradient
 ```
 Where:
