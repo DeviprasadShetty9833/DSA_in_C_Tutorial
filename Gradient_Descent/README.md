@@ -25,7 +25,7 @@ This function has roots at x = 2 and x = 3.
 
 📌 How Does Gradient Descent Work? 
 
-At each step, Gradient Descent:
+At each step( x ), Gradient Descent:
 
 1. Calculates the value of the function (height of mountain).
 2. Calculates the derivative (slope).
