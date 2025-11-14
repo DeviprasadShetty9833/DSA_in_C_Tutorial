@@ -29,7 +29,7 @@ At each step( x ), Gradient Descent:
 
 1. Calculates the value of the function (height of mountain).
 2. Calculates the derivative (how steep the slope is).
-3. Computes the gradient of the cost function (tells: how far & in which direction to move).
+3. Computes the gradient of the cost function.
 4. Moves a little down the slope:
 
 ```
@@ -39,7 +39,7 @@ Where:
 
 η (eta) = learning rate = step size
 
-gradient = how steep the slope is
+gradient tells how far & in which direction to move
 
 smaller slopes → smaller steps → approach to minimum
 
