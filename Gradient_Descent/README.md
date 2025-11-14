@@ -117,7 +117,7 @@ int main() {
 
         double x_next = x_current - learning_rate * gradient;
 
-        if (fabs(x_next - x_current) < tolerance) {
+        if (fabs(x_next - x_current) < tolerance) {   // fabs() returns the absolute value of a floating-point number.
             printf("Iterations: %d\n", i);
             x_current = x_next;
             break;
