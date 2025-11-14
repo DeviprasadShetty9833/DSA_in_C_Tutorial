@@ -39,7 +39,7 @@ Where:
 
 η (eta) = learning rate = step size
 
-gradient tells how far & in which direction to move
+gradient tells how far & in which direction to move. (+ve: slope goes up , -ve: slope goes down)
 
 smaller slopes → smaller steps → approach to minimum
 
