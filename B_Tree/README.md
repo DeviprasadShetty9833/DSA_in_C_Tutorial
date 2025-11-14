@@ -27,9 +27,9 @@ Children | ⌈m/2⌉ | m |
 | Bp | 10 | Dp | Bp |         | Bp | 30 | Dp | Bp |
 ```
 
-Bp →  Block pointer → Points to other node
-Key →  Key value
-Dp →  Data pointer →  points to Data
+- Bp →  Block pointer → Points to other node
+- Key →  Key value
+- Dp →  Data pointer →  points to Data
 
 *Formula:*
 ```html
