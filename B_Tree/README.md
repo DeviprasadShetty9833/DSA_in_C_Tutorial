@@ -44,6 +44,11 @@ nBp + (n-1)key +(n - 1) Dp <= Block size
 ```html
 Insert: 10, 20, 30, 40, 50
 
+Maximum keys per node: 2
+Minimum keys per node (except root): 1
+Maximum children: 3
+Minimum children (except root): 2
+
 Step 1:
 
   [10]
