@@ -54,7 +54,7 @@ Step 2:
 
 Step 3:
 
-  [10, 20, 30] → Overflow!
+  [10, 20, 30] → Overflow!   (3 keys > m-1 = 2)
 
 Split: [20] becomes root
       /    \
@@ -72,10 +72,9 @@ Step 5:
         /    \
      [10]    [30, 40, 50] → Overflow!
 
-Split:  [20, 40] becomes root
-        /   \   \
-     [10]   [30] [50]
-
+Split: [20, 40] becomes root
+       /   |   \
+     [10] [30] [50]
 
 
 ```
