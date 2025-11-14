@@ -60,19 +60,7 @@ Starting at x = 2.52:
 2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
 
 7. Slope becomes almost flat
-8. Algorithm stops: |x_next - x_current| < tolerance    ...(near x = 3)
-
----
-
-📌 Visual Analogy
-
-Concept	Meaning
-
-Mountain height	Function value 
-Slope of ground	Derivative 
-Lowest valley	Minimum of function
-Your steps	Updates to x
-Step size	Learning rate
+8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3)
 
 ---
 
