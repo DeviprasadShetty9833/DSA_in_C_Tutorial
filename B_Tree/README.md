@@ -16,6 +16,6 @@ For a B-tree of order m:
 ```
 
 |  |  |  |
-|--|--|--|--|
+|--|--|--|
 Key | ⌈m/2⌉ - 1 | m-1 |
 pointer | ⌈m/2⌉ | m |
