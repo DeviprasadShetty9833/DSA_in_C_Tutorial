@@ -59,11 +59,8 @@ Starting at x = 2.52:
 
 2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
 
-
-5. Slope becomes almost flat
-
-
-6. Algorithm stops near x = 3, which is a true root
+7. Slope becomes almost flat
+8. Algorithm stops: |x_next - x_current| < tolerance    ...(near x = 3)
 
 ---
 
