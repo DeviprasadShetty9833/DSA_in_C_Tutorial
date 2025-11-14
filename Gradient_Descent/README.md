@@ -86,6 +86,96 @@ d/dx( f(x)² ) = 2 * f(x) * f'(x)
 
 # 📌 C Implementation of Gradient Descent
 
+*Algorithm:*
+
+Input:
+
+Function 
+
+Derivative 
+
+Learning rate 
+
+Initial guess 
+
+Tolerance 
+
+
+Output:
+
+Approximate value of  where the function is minimum (or root when using )
+
+
+```c
+Step 1: Initialize
+
+1. Choose an initial point:
+
+
+
+x = x_0
+
+3. Set tolerance .
+
+
+4. Set maximum iterations.
+
+
+
+
+---
+
+Step 2: Repeat Until Convergence
+
+For each iteration:
+
+1. Compute function value
+
+
+
+f = f(x)
+
+2. Compute derivative (slope)
+
+
+
+f' = f'(x)
+
+3. Compute gradient
+If minimizing :
+
+
+
+\text{gradient} = 2 \cdot f(x) \cdot f'(x)
+
+4. Update x (move opposite to slope)
+
+
+
+x_{\text{new}} = x - \alpha \cdot \text{gradient}
+
+5. Check convergence
+If:
+
+
+
+|x_{\text{new}} - x| < \epsilon
+
+6. Otherwise:
+
+
+
+x = x_{\text{new}}
+
+
+---
+
+Step 3: Return Result
+
+Return the final value of  as the approximate solution.
+
+```
+
 *Code:*
 ```c
 #include <stdio.h>
