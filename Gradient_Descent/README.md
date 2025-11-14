@@ -31,11 +31,11 @@ At each step( x ), Gradient Descent:
 4. Moves a little down the slope:
 
 ```html
-x_next = x_current - η • gradient
+x_next = x_current - α • gradient
 ```
 Where:
 
-η (eta) = learning rate = step size
+α = learning rate = step size
 
 gradient tells how far & in which direction to move. (+ve: slope goes up , -ve: slope goes down)
 
@@ -52,7 +52,7 @@ Starting at x = 2.52:
 2. Derivative: f'(x) = 2x – 5
 3. Cost: f(x)²
 4. Gradient: 2 * f(x) * f'(x)  ...( Derivative of Cost )
-5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. 0.01 = small safe step )
+5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. α = 0.01 = small safe step )
 6. x moves a little to the right:
 
 2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
@@ -90,15 +90,15 @@ d/dx( f(x)² ) = 2 * f(x) * f'(x)
 
 Input:
 
-Function 
+Function f(x)
 
-Derivative 
+Derivative f'(x)
 
-Learning rate 
+Learning rate α
 
-Initial guess 
+Initial guess x_0
 
-Tolerance 
+Tolerance ε
 
 
 Output:
@@ -124,9 +124,9 @@ For each iteration:
 3. Compute gradient
     If minimizing : gradient = 2 * f(x) * f'(x)
 4. Update x (move opposite to slope)
-    x_next = x_current – learning_rate * gradient
+    x_next = x_current – α * gradient
 5. Check convergence
-    If: |x_next - x_current| < tolerance
+    If: |x_next - x_current| < ε
 6. Otherwise: x = x_next
 
 ---
