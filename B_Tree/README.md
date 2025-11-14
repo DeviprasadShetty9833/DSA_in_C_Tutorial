@@ -18,4 +18,4 @@ For a B-tree of order m:
 |  | min | max |
 |--|--|--|
 Key | ⌈m/2⌉ - 1 | m-1 |
-Pointer | ⌈m/2⌉ | m |
+Children | ⌈m/2⌉ | m |
