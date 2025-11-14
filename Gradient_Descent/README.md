@@ -68,13 +68,13 @@ Starting at x = 2.52:
 
 To find roots of , we minimize:
 
-\text{Cost} = f(x)^2
+Cost = f(x)²
 
 Because:
 
-At the root, 
+At the root, f(x) = 0
 
-So  → perfect minimum
+So f(x)² = 0 → perfect minimum
 
 Squaring ensures the value is always positive
 
