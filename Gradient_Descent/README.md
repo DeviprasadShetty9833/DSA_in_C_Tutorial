@@ -76,18 +76,12 @@ At the root, f(x) = 0
 
 So f(x)² = 0 → perfect minimum
 
-Squaring ensures the value is always positive
-
-This gives a smooth curve easy for gradient descent
+- Squaring ensures the value is always positive. This gives a smooth curve easy for gradient descent
 
 
 Derivative of cost:
 
-\frac{d}{dx}(f(x)^2) = 2 f(x) f'(x)
-
-Hence the gradient becomes:
-
-gradient = 2 * f(x) * f'(x)
+d/dx( f(x)² ) = 2 * f(x) * f'(x)
 
 
 ---
