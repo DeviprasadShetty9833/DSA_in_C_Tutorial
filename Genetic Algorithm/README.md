@@ -10,3 +10,18 @@ User Intervention	| Minimal	| Requires tuning of parameters (mutation rate, cros
 
 ---
 
+Steps:
+
+1. Select Encoding type
+
+2. Choose population size
+
+3. Randomly choose initial population
+
+4. Select parental chromosomes
+
+5. Crossover and mutation
+
+6. Evaluation of offspring
+
+7. If stopping criteria not reached, go to step 4
