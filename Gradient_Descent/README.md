@@ -109,19 +109,9 @@ Approximate value of  where the function is minimum (or root when using )
 ```c
 Step 1: Initialize
 
-1. Choose an initial point:
-
-
-
-x = x_0
-
-3. Set tolerance .
-
-
-4. Set maximum iterations.
-
-
-
+1. Choose an initial point: x = x_0
+2. Set tolerance .
+3. Set maximum iterations.
 
 ---
 
@@ -129,44 +119,15 @@ Step 2: Repeat Until Convergence
 
 For each iteration:
 
-1. Compute function value
-
-
-
-f = f(x)
-
-2. Compute derivative (slope)
-
-
-
-f' = f'(x)
-
+1. Compute function value f = f(x)
+2. Compute derivative (slope) f' = f'(x)
 3. Compute gradient
-If minimizing :
-
-
-
-\text{gradient} = 2 \cdot f(x) \cdot f'(x)
-
+    If minimizing : gradient = 2 * f(x) * f'(x)
 4. Update x (move opposite to slope)
-
-
-
-x_{\text{new}} = x - \alpha \cdot \text{gradient}
-
+    x_next = x_current – learning_rate * gradient
 5. Check convergence
-If:
-
-
-
-|x_{\text{new}} - x| < \epsilon
-
-6. Otherwise:
-
-
-
-x = x_{\text{new}}
-
+    If: |x_next - x_current| < tolerance
+6. Otherwise: x = x_next
 
 ---
 
