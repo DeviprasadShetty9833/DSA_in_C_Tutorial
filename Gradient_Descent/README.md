@@ -32,8 +32,7 @@ At each step, Gradient Descent:
 3. Computes the gradient of the cost function.
 4. Moves a little down the slope:
 
-
-x_{\text{new}} = x_{\text{old}} - \eta \cdot \text{gradient}
+x_new = x_old - η • gradient
 
 Where:
 
