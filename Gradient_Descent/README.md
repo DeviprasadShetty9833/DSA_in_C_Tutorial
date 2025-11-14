@@ -1,7 +1,5 @@
 
----
-
-📌 What is Gradient Descent?
+# 📌 What is Gradient Descent?
 
 Gradient Descent is an iterative optimization algorithm used to find the minimum of a function. Think of standing on a mountain at night:
 
@@ -15,7 +13,7 @@ Gradient Descent is an iterative optimization algorithm used to find the minimum
 
 ---
 
-📌 Aim
+# 📌 Aim
 
 We use Gradient Descent to find a root of the polynomial: f(x) = x² - 5x + 6
 
@@ -23,7 +21,7 @@ This function has roots at x = 2 and x = 3.
 
 ---
 
-📌 How Does Gradient Descent Work? 
+# 📌 How Does Gradient Descent Work? 
 
 At each step( x ), Gradient Descent:
 
@@ -46,7 +44,7 @@ smaller slopes → smaller steps → approach to minimum
 ---
 
 
-📌 Step-By-Step Example
+# 📌 Step-By-Step Example
 
 Starting at x = 2.52:
 
@@ -64,7 +62,7 @@ Starting at x = 2.52:
 
 ---
 
-📌 Why Are We Minimizing ?
+# 📌 Why Are We Minimizing ?
 
 To find roots of , we minimize:
 
@@ -86,7 +84,7 @@ d/dx( f(x)² ) = 2 * f(x) * f'(x)
 
 ---
 
-📌 C Implementation of Gradient Descent
+# 📌 C Implementation of Gradient Descent
 
 *Code:*
 ```c
@@ -138,7 +136,7 @@ int main() {
 ---
 
 
-📌 Key Takeaways 
+# 📌 Key Takeaways 
 
 - Gradient Descent is an iterative optimization algorithm.
 - Moves in the direction of negative gradient.
