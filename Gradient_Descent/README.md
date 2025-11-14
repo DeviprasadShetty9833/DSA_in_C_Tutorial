@@ -48,24 +48,14 @@ smaller slopes → smaller steps → approach to minimum
 
 📌 Step-By-Step Example
 
+Starting at x = 2.52:
+
 1. Polynomial: f(x) = x² – 5x + 6
 2. Derivative: f'(x) = 2x – 5
 3. Cost: f(x)²
 4. Gradient: 2 * f(x) * f'(x)  ...( Derivative of Cost )
 5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. 0.01 = small safe step )
-
-Starting at x = 2.52:
-
-1. Compute height → slightly negative
-
-
-2. Compute slope → slightly positive
-
-
-3. Gradient becomes small
-
-
-4. x moves a little to the right:
+6. x moves a little to the right:
 
 2.52 → 2.53 → 2.55 → 2.60 → 2.80 → 2.95 → 2.99
 
