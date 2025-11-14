@@ -40,6 +40,20 @@ nBp + (n-1)key +(n - 1) Dp <= Block size
 
 2. Insertion
 
+*Steps:*
+```html
+Search for appropriate leaf node
+Insert key in sorted order
+If node overflows (keys > m-1):
+
+  Split node into two
+  Median key moves to parent
+  Left half and right half become children
+
+If parent overflows, repeat splitting upward
+Tree grows in height from top
+```
+
 *Example:*
 ```html
 Insert: 10, 20, 30, 40, 50
