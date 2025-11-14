@@ -17,12 +17,9 @@ Gradient Descent is an iterative optimization algorithm used to find the minimum
 
 📌 Aim
 
-We use Gradient Descent to find a root of the polynomial:
-
-f(x) = x^2 - 5x + 6
+We use Gradient Descent to find a root of the polynomial: f(x) = x² - 5x + 6
 
 This function has roots at x = 2 and x = 3.
-
 
 ---
 
