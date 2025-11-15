@@ -130,10 +130,10 @@ Step 2: Delete 40 (Right Borrow)
          /    |    \
     [10, 20] [50] [70, 80, 90]
 
-Borrowing Process:
-1. Borrow from right sibling [70, 80, 90]
-2. Smallest key from right sibling (70) moves to parent
-3. Parent's key (60) moves down 
+  Borrowing Process:
+    1. Borrow from right sibling [70, 80, 90]
+    2. Smallest key from right sibling (70) moves to parent
+    3. Parent's key (60) moves down 
 
             [30, 70]  <-- Parent key updated
           /    |    \
@@ -145,14 +145,14 @@ Step 3: Delete 50 (Merge)
          /    |    \
     [10, 20] [60] [80, 90] 
 
-Borrow from left / right sibling not possible as both have min no. keys i.e 2 keys.
+  Borrow from left / right sibling not possible as both have min no. keys i.e 2 keys.
 
-Merging Process:
-1. Take the deficient node [60].
-2. Take its left sibling [10, 20].
-3. Pull down the parent key that separates them (30).
-4. Combine all three into a single new node: [10, 20, 30, 60].
-5. The parent node [30, 60] loses the 30 key and its child pointer.
+  Merging Process:
+    1. Take the deficient node [60].
+    2. Take its left sibling [10, 20].
+    3. Pull down the parent key that separates them (30).
+    4. Combine all three into a single new node: [10, 20, 30, 60].
+    5. The parent node [30, 60] loses the 30 key and its child pointer.
 
                   [70]
                  /    \
