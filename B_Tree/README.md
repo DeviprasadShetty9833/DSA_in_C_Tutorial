@@ -65,35 +65,35 @@ Maximum children: 3
 
 Step 1: Insert 10
 
-  [10]
+      [10]
 
 Step 2: Insert 20
 
-  [10, 20]
+      [10, 20]
 
 Step 3: Insert 30
 
-  [10, 20, 30] → Overflow!   (3 keys > m-1 = 2)
+      [10, 20, 30] → Overflow!   (3 keys > m-1 = 2)
 
-Split: [ 20 ] becomes root
-       /    \
-    [10]    [30]
+  Split:     [ 20 ] becomes root
+             /    \
+          [10]    [30]
 
 Step 4: Insert 40
 
-         [ 20 ] 
-         /    \
-      [10]    [30,40]
+             [ 20 ] 
+             /    \
+          [10]    [30,40]
 
 Step 5: Insert 50
 
-         [ 20 ] 
-         /    \
-      [10]    [30,40,50] → Overflow!
+             [ 20 ] 
+             /    \
+          [10]    [30,40,50] → Overflow!
 
-Split: [ 20, 40 ] becomes root
-        /   |   \
-      [10] [30] [50]
+  Split:     [ 20, 40 ] becomes root
+              /   |   \
+            [10] [30] [50]
 
 
 ```
@@ -110,9 +110,9 @@ Split: [ 20, 40 ] becomes root
 
 *Example:*
 ```html
-1]               [ 30, 60 ]
-                /    |    \
-       [10,20,25] [40,50] [70,80,90]
+1]                       [ 30, 60 ]
+                        /    |    \
+               [10,20,25] [40,50] [70,80,90]
 
 |          | min | max |
 | Key      |  2  |  4  |
@@ -120,30 +120,30 @@ Split: [ 20, 40 ] becomes root
 
 Step 1: Delete 25 (Simple Delete)
 
-             [ 30, 60 ]
-             /    |    \
-       [10,20] [40,50] [70,80,90]
+                     [ 30, 60 ]
+                     /    |    \
+               [10,20] [40,50] [70,80,90]
 
 Step 2: Delete 40 (Right Borrow)
 
-           [ 30, 60 ]
-          /    |    \
-     [10,20] [50] [70,80,90]
+                   [ 30, 60 ]
+                  /    |    \
+             [10,20] [50] [70,80,90]
 
   Borrowing Process:
     1. Borrow from right sibling [70, 80, 90]
     2. Smallest key from right sibling (70) moves to parent
     3. Parent's key (60) moves down 
 
-            [ 30, 70 ]  <-- Parent key updated
-           /    |    \
-     [10,20] [50,60] [80,90]
+                    [ 30, 70 ]  <-- Parent key updated
+                   /    |    \
+             [10,20] [50,60] [80,90]
 
 Step 3: Delete 50 (Merge)
 
-           [ 30, 70 ] 
-          /    |    \
-     [10,20] [60] [80,90] 
+                   [ 30, 70 ] 
+                  /    |    \
+             [10,20] [60] [80,90] 
 
   Borrow from left / right sibling not possible as both have min no. keys i.e 2 keys.
 
@@ -154,9 +154,9 @@ Step 3: Delete 50 (Merge)
     4. Combine all three into a single new node: [10, 20, 30, 60].
     5. The parent node [30, 60] loses the 30 key and its child pointer.
 
-                  [ 70 ]
-                 /    \
-       [10,20,30,60] [80,90]   
+                          [ 70 ]
+                         /    \
+               [10,20,30,60] [80,90]   
 ```
 
 ```html
