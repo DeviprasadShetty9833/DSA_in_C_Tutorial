@@ -3,7 +3,7 @@
 - A self-balancing search tree.
 - Maintains sorted data and allows search, insert, delete in O(log n).
 
-Properties of B-Tree
+### Properties of B-Tree
 ```html
 For a B-tree of order m:
 - Each node has at most m children
@@ -36,9 +36,9 @@ For a B-tree of order m:
 nBp + (n-1)key +(n - 1) Dp <= Block size
 ```
 
-1. Searching
+### 1. Searching
 
-2. Insertion
+### 2. Insertion
 
 *Steps:*
 ```html
@@ -98,7 +98,7 @@ Step 5: Insert 50
 
 ```
 
-3. Deletion
+### 3. Deletion
 
 *Steps:*
 ```html
