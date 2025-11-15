@@ -11,9 +11,9 @@ Pattern(P):
 
 Step 1: Prepare Longest Prefix Suffix (LPS) table 
 
-| Index | 0 |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Index j | 0 |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |--|--|--|--|--|--|--|--|--|--|
-| Pattern | a | b | a | b | c | a | b | a | b |
+| Pattern P[j] | a | b | a | b | c | a | b | a | b |
 | LPS | 0 | 0 | 1 | 2 | 0 | 1 | 2 | 3 | 4 |
 
 - At Index 0, `a` appears for 1st time in prefix, len of LPS[1] = 0
