@@ -26,4 +26,6 @@ Step 1: Prepare Longest Prefix Suffix (LPS) table
 - At Index 7, Pattern starts with `aba` & ends with `aba`, len of LPS[7] = 3
 - At Index 8, Pattern starts with `abab` & ends with `abab`, len of LPS[8] = 4
 
-
+Step 2: Compare S[i] & P[j + 1]
+ if ( S[i] == P[j + 1] )
+     i++ & j++
