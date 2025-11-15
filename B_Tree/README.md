@@ -110,15 +110,19 @@ Split: [20, 40] becomes root
 
 *Example:*
 ```html
-           [25, 50]
-          /    |    \
-    [10,20] [30,40] [60,70]
+                [30, 60]
+               /    |    \
+    [10,20, 25] [40, 50] [70, 80, 90]
 
 |          | min | max |
-| Key      |  1  |  2  |
-| Children |  2  |  3  |
+| Key      |  2  |  4  |
+| Children |  3  |  5  |
 
-Step 1: Delete 70
+Step 1: Delete 25
+
+            [30, 60]
+           /    |    \
+    [10, 20] [40, 50] [70, 80, 90]
 
            [25, 50]
           /    |    \
@@ -146,9 +150,7 @@ Step 3: Delete 10
      /    |    \
     [20] [30] [50]    ← Deleting 10 from [10,20]
 
-Borrow from right sibling [30]:
-1. Smallest key from right sibling (30) moves to parent
-2. Parent's key (25) moves down to leaf
+Borrow from left / right sibling 
 
 Result:
         [30, 40]
