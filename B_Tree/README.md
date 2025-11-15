@@ -17,8 +17,8 @@ For a B-tree of order m:
 
 |  | min | max |
 |--|--|--|
-Key | ⌈m/2⌉ - 1 | m-1 |
-Children | ⌈m/2⌉ | m |
+| Key | ⌈m/2⌉ - 1 | m-1 |
+| Children | ⌈m/2⌉ | m |
 
 *Structure:*
 ```
@@ -113,6 +113,10 @@ Split: [20, 40] becomes root
            [25, 50]
           /    |    \
     [10,20] [30,40] [60,70]
+
+|          | min | max |
+| Key      |  1  |  2  |
+| Children |  2  |  3  |
 
 Step 1: Delete 70
 
