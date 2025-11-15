@@ -1,21 +1,16 @@
-B+ Tree
+# B+ Tree
 
-A self-balancing search tree, and an extension of the B-Tree.
+- A self-balancing search tree, and an extension of the B-Tree.
+- Maintains sorted data and allows search, insert, delete in O(log n).
 
-Optimized for systems that read and write large blocks of data (disk I/O).
-
-Maintains sorted data and allows search, insert, delete in O(log n).
-
-All data is stored only in the leaf nodes.
-
-All leaf nodes are linked together, providing efficient range queries.
-
-Properties of B+ Tree
+### Properties of B+ Tree
 
 For a B+ Tree of order m:
 - Internal nodes and leaf nodes have different structures.
-- All leaves are at the same level.
+- All data is stored only in the leaf nodes.
 - Keys in internal nodes are replicated in the leaf nodes.
+- All leaf nodes are linked together, providing efficient range queries.
+- All leaves are at the same level.
 
 Internal Nodes (Index Nodes):
 - Store *only* keys.
