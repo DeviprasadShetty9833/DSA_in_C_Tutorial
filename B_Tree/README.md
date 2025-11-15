@@ -110,7 +110,7 @@ Split: [20, 40] becomes root
 
 *Example:*
 ```html
-                [30, 60]
+                 [30, 60]
                /    |    \
     [10,20, 25] [40, 50] [70, 80, 90]
 
@@ -118,44 +118,42 @@ Split: [20, 40] becomes root
 | Key      |  2  |  4  |
 | Children |  3  |  5  |
 
-Step 1: Delete 25
+Step 1: Delete 25 (Simple Delete)
 
-            [30, 60]
+             [30, 60]
            /    |    \
     [10, 20] [40, 50] [70, 80, 90]
 
-           [25, 50]
-          /    |    \
-    [10,20] [30,40] [60] 
+Step 2: Delete 40 (Right Borrow)
 
-Step 2: Delete 60
-
-           [25, 50]
-          /    |    \
-    [10,20] [30,40] [ ]    ← Deleting 60 makes leaf empty!
+           [30, 60]
+         /    |    \
+    [10, 20] [50] [70, 80, 90]
 
 Borrowing Process:
-1. Borrow from left sibling [30,40]
-2. Largest key from left sibling (40) moves to parent
-3. Parent's key (50) moves down to empty leaf
+1. Borrow from right sibling [70, 80, 90]
+2. Smallest key from right sibling (70) moves to parent
+3. Parent's key (60) moves down 
 
-Result:
-         [25, 40]
-        /    |    \
-    [10,20] [30] [50]
+            [30, 70]  <-- Parent key updated
+          /    |    \
+    [10, 20] [50, 60] [80, 90]
 
-Step 3: Delete 10
+Step 3: Delete 50 (Merge)
 
-      [25, 40]
-     /    |    \
-    [20] [30] [50]    ← Deleting 10 from [10,20]
+           [30, 70] 
+         /    |    \
+    [10, 20] [60] [80, 90] 
 
-Borrow from left / right sibling 
+Borrow from left / right sibling not possible as both have min no. keys i.e 2 keys.
 
-Result:
-        [30, 40]
-       /    |    \
-    [20,25] [ ] [50]    ← Wait, [30] becomes empty? Let me correct...
+Merging Process:
+1. Take the deficient node [60].
+2. Take its left sibling [10, 20].
+3. Pull down the parent key that separates them (30).
+4. Combine all three into a single new node: [10, 20, 30, 60].
+5. The parent node [30, 60] loses the 30 key and its child pointer.
 
-Actually correct:
-        [25, 40] becomes [20, 40]? Let me show properly...
+                  [70]
+                 /    \
+    [10, 20, 30, 60] [80, 90]   
