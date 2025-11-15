@@ -1,4 +1,4 @@
-# B-Tree 
+# B Tree 
 
 - A self-balancing search tree.
 - Maintains sorted data and allows search, insert, delete in O(log n).
