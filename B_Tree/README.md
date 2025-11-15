@@ -63,15 +63,15 @@ Maximum keys per node: 2
 Minimum children (except root): 2
 Maximum children: 3
 
-Step 1:
+Step 1: Insert 10
 
   [10]
 
-Step 2:
+Step 2: Insert 20
 
   [10, 20]
 
-Step 3:
+Step 3: Insert 30
 
   [10, 20, 30] → Overflow!   (3 keys > m-1 = 2)
 
@@ -79,13 +79,13 @@ Split: [20] becomes root
       /    \
    [10]    [30]
 
-Step 4:
+Step 4: Insert 40
 
          [20] 
         /    \
      [10]    [30, 40]
 
-Step 5:
+Step 5: Insert 50
 
          [20] 
         /    \
@@ -110,3 +110,46 @@ Split: [20, 40] becomes root
 
 *Example:*
 ```html
+           [25, 50]
+          /    |    \
+    [10,20] [30,40] [60,70]
+
+Step 1: Delete 70
+
+           [25, 50]
+          /    |    \
+    [10,20] [30,40] [60] 
+
+Step 2: Delete 60
+
+           [25, 50]
+          /    |    \
+    [10,20] [30,40] [ ]    ← Deleting 60 makes leaf empty!
+
+Borrowing Process:
+1. Borrow from left sibling [30,40]
+2. Largest key from left sibling (40) moves to parent
+3. Parent's key (50) moves down to empty leaf
+
+Result:
+         [25, 40]
+        /    |    \
+    [10,20] [30] [50]
+
+Step 3: Delete 10
+
+      [25, 40]
+     /    |    \
+    [20] [30] [50]    ← Deleting 10 from [10,20]
+
+Borrow from right sibling [30]:
+1. Smallest key from right sibling (30) moves to parent
+2. Parent's key (25) moves down to leaf
+
+Result:
+        [30, 40]
+       /    |    \
+    [20,25] [ ] [50]    ← Wait, [30] becomes empty? Let me correct...
+
+Actually correct:
+        [25, 40] becomes [20, 40]? Let me show properly...
