@@ -15,3 +15,13 @@ Step 1: Prepare Longest Prefix Suffix (LPS) table
 |--|--|--|--|--|--|--|--|--|
 | Pattern | a | b | a | b | c | a | b | a | b |
 | LPS | 0 | 0 | 1 | 2 | 0 | 1 | 3 | 1 | 4 |
+
+- At Index 1, `a` appears for 1st time in prefix, LPS[1] = 0
+- At Index 2, `b` appears for 1st time in prefix, LPS[2] = 0
+- At Index 3, `a` appears for 2nd time in prefix, LPS[3] = 1
+- At Index 4, `ab` appears for 2nd time in prefix, LPS[4] = 2 (for 2 letters)
+- At Index 5, `c` appears for 1st time in prefix, LPS[5] = 0
+- At Index 6, `a` appears for 3rd time in prefix, LPS[6] = 1
+- 
+
+
