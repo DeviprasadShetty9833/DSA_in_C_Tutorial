@@ -50,8 +50,8 @@ Starting at x = 2.52:
 
 1. Polynomial: f(x) = x² – 5x + 6
 2. Derivative: f'(x) = 2x – 5
-3. Cost: f(x)²
-4. Gradient: 2 * f(x) * f'(x)  ...( Derivative of Cost )
+3. Cost: j(x) = f(x)²
+4. Gradient: j'(x) = 2 * f(x) * f'(x)  ...( Derivative of Cost )
 5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. α = 0.01 = small safe step )
 6. x moves a little to the right:
 
