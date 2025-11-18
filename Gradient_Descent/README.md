@@ -92,7 +92,7 @@ Input:
 - Function f(x)
 - Derivative f'(x)
 - Learning rate α
-- Initial guess x_0
+- Initial guess x₀
 - Tolerance ε
 
 Output:
@@ -101,7 +101,7 @@ Output:
 ```c
 Step 1: Initialize
 
-1. Choose an initial point: x = x_0
+1. Choose an initial point: x = x₀
 2. Set tolerance ε.
 3. Set maximum iterations.
 
