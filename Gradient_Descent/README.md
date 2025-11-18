@@ -1,7 +1,7 @@
 
 # 📌 What is Gradient Descent?
 
-Gradient Descent is an iterative optimization algorithm used to find the minimum of a function. Think of standing on a mountain at night:
+Gradient Descent is an iterative optimization algorithm used to find the **minimum of a function**. Think of standing on a mountain at night:
 
 - You cannot see the valley (the minimum),
 - You only know the slope at your feet,
