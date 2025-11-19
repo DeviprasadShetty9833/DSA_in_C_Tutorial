@@ -79,7 +79,7 @@ Step 5: Insert 16
          \
          16(R)   ...(Rule 4a) ← Violation! RED parent (15) and RED child (16)
 
-    1) LR Rotation → LL Rotation
+    1) LR Rotation → LL Rotation, then recolor
 
          18(B)        18(B)
          /            /
@@ -126,7 +126,7 @@ Step 7: Insert 25
                     \
                     25(R)   ...(Rule 4a) ← Violation! RED parent (30) and RED child (25)
 
-    1) RR Rotation
+    1) RR Rotation, then recolor
 
          18(B)        
             \           
@@ -154,6 +154,34 @@ Step 8: Insert 40
                     \
                      40(R)    ...(Rule 4b) ← Violation! RED parent (30) and RED child (25)
 
+    Recolor: 18(R), 30(R) → 18(B), 30(B) and 25(B) → 25(R) as 25 is not a root node.
 
+     10(B)
+    /    \
+  7(B)   16(R)
+        /    \
+      15(B)  25(R)     ...(Rule 4a) ← Violation! RED parent (16) and RED child (25)
+            /    \
+          18(B)  30(B)
+                    \
+                     40(R)
+
+    1) RR Rotation, then recolor
+
+         10(B)        
+            \           
+            16(R)     →     16(B)
+                \          /    \
+                25(R)    10(R)  30(R)
+
+
+              16(B)
+           /        \
+      10(R)          25(R)
+     /     \        /    \
+  7(B)    15(B)  18(B)    30(B)
+                              \
+                              40(R)
+ 
 
 ```
