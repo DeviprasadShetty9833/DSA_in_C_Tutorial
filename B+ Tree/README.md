@@ -62,7 +62,7 @@ Leaf Node: n*(Key + Dp) + 1_NextLeaf_Bp <= Block_Size
 ```
 
 
-1. Searching
+### 1. Searching
 
 Search always proceeds from the root to a leaf node.
 
@@ -78,7 +78,7 @@ X >= 60 → Go right.
 
 Even if you are searching for 30 and see it in an internal node, you must follow the pointer (>= 30) to the leaf to find the actual data.
 
-2. Insertion
+### 2. Insertion
 
 Steps:
 
@@ -170,7 +170,7 @@ Step 5: Insert 50
 
 
 
-3. Deletion
+### 3. Deletion
 
 Steps:
 
