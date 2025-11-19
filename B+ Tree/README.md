@@ -37,32 +37,27 @@ Leaf Nodes (Data Nodes):
 | Internal | Children	| ⌈m/2⌉	| m |
 | Leaf | Key-Data Pairs	| ⌈(m-1)/2⌉	| m - 1|
 
-
-
 Structure:
-
+```
 Internal Node (Index Node):
                | Bp | 20 | Bp | 50 | Bp |
                 /          |         \
-   (All < 20)     (>= 20 and < 50)   (>= 50)
+      (key < 20)   (20 <= key < 50)   (key >= 50)
 
 Leaf Nodes (Data Nodes):
 ... -> | Bp | 10 | Dp | 15 | Dp | -> | Bp | 20 | Dp | 30 | Dp | -> ...
        [... Previous Leaf ...]      [... Next Leaf ...]
+```
 
-
-
-Bp → Block pointer → Points to another node (internal or leaf).
-
-Key → Key value.
-
-Dp → Data pointer → points to Data (exists only in leaf nodes).
+- Bp → Block pointer → Points to another node (internal or leaf).
+- Key → Key value.
+- Dp → Data pointer → points to Data (exists only in leaf nodes).
 
 Formula (Block Size):
-
-Internal Node: nBp + (n-1)key <= Block size
+```
+Internal Node: n*Bp + (n-1)*key <= Block_Size
 Leaf Node:     (n*Key + n*Dp) + 1_NextLeafBp <= Block size
-
+```
 
 
 1. Searching
