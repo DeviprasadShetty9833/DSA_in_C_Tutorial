@@ -96,6 +96,105 @@ Steps:
 
 
 Example:
+```
+B+ TREE INSERTION (Order m = 3)
+
+Minimum keys per node (except root): 1
+Maximum keys per node: 2
+Minimum children (except root): 2
+Maximum children: 3
+
+Insert: 10, 20, 30, 40, 50, 80, 70, 90, 60, 99
+
+Step 1: Insert 10
+      [10]
+
+Step 2: Insert 20
+      [10, 20]
+
+Step 3: Insert 30
+      [10, 20, 30] → Overflow!
+Split: Median (20) moves up
+
+             [20]
+            /    \
+         [10]   [30]
+
+Step 4: Insert 40
+
+             [20]
+            /    \
+         [10]   [30, 40]
+
+Step 5: Insert 50
+
+             [20]
+            /    \
+         [10]   [30, 40, 50] → Overflow!
+Split: Median (40) moves up
+
+             [20, 40]
+            /    |    \
+        [10]   [30]  [50]
+
+Step 6: Insert 80
+
+             [20, 40]
+            /    |    \
+        [10]   [30]  [50, 80]
+
+Step 7: Insert 70
+
+             [20, 40]
+            /    |    \
+        [10]   [30]  [50, 70, 80] → Overflow!
+Split right: Median (70) moves up
+
+             [20, 40, 70] → Root overflow!
+            /    |    |    \
+        [10]  [30]  [50]  [80]
+
+Split root: Median (40) becomes new root
+
+                 [40]
+               /      \
+            [20]      [70]
+           /    \    /    \
+        [10]  [30] [50]  [80]
+
+Step 8: Insert 90
+
+                 [40]
+               /      \
+            [20]      [70]
+           /    \    /     \
+        [10]  [30] [50]  [80, 90]
+
+Step 9: Insert 60
+
+                 [40]
+               /      \
+            [20]      [70]
+           /    \    /     \
+        [10]  [30] [50, 60] [80, 90]
+
+Step 10: Insert 99
+
+                 [40]
+               /      \
+            [20]      [70]
+           /    \    /         \
+        [10]  [30] [50, 60]  [80, 90, 99] → Overflow!
+
+Split rightmost: Median (90) moves up
+
+                 [40]
+               /      \
+            [20]     [70, 90]
+           /    \    /    |    \
+        [10]  [30] [50,60] [80] [99]
+```
+
 
 Insert: 10, 20, 30, 40, 50
 (Assuming m=3, Max Keys = 2)
