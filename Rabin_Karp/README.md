@@ -1,4 +1,4 @@
-#### Analyze Time Complexity of Naive String Matching Algorithm and Rabin-Karp String Matching Algorithm for a scenario where both the algorithms have same time complexity.
+### Analyze Time Complexity of Naive String Matching Algorithm and Rabin-Karp String Matching Algorithm for a scenario where both the algorithms have same time complexity.
 
 
 Both algorithms become **equally slow** when **every substring of the text has the same hash value as the pattern** (in Rabin–Karp) and **every comparison must be done** (in both algorithms).
@@ -65,5 +65,3 @@ O((n - m + 1) \cdot m ) = O(nm)
 **Both Naive and Rabin–Karp algorithms have the same time complexity O(nm) when the pattern and text consist of repeated characters (e.g., "aaaa…a"). In this case, every shift produces a partial match for the Naive algorithm, and for Rabin–Karp, every substring of the text has the same hash as the pattern, causing hash collisions. Each alignment requires a full m-character comparison, resulting in O((n – m + 1)·m) = O(nm) for both algorithms.**
 
 ---
-
-If you want, I can also give a **table, graph, or a full handwritten-style explanation** depending on what your professor expects.
