@@ -85,12 +85,12 @@ Steps:
 - Search for the appropriate leaf node.
 - Insert the key-data pair in sorted order.
 - If the node overflows (keys > m-1):
-  - Split the node into two.
-  - COPY the *smallest key* from the new right node and promote it to the parent.
-  - Link the new leaf node to its sibling.
+    - Split the node into two.
+    - COPY the *smallest key* from the new right node and promote it to the parent.
+    - Link the new leaf node to its sibling.
 - If the parent (internal) node overflows:
-  Split the internal node.
-  MOVE (do not copy) the middle key to the parent.
+    - Split the internal node.
+    - MOVE (do not copy) the middle key to the parent.
 - Repeat splitting upward if necessary.
 
 
