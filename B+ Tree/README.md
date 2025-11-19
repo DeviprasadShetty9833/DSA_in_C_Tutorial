@@ -28,8 +28,7 @@ Leaf Nodes (Data Nodes):
 - Store keys + data pointers + next leaf pointer
 - Are linked together to form a sequential linked list.
 - A leaf node can hold at most m-1 key-data pairs.
-- A leaf node must have at least ⌈(m-1)/2⌉ key-data pairs. (Note:
-  rules can vary)
+- A leaf node must have at least ⌈(m-1)/2⌉ key-data pairs. (Note: rules can vary)
 ```
 
 | Node Type |	Element |	Min |	Max |
