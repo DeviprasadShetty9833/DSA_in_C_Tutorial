@@ -181,7 +181,7 @@ int main() {
 
 # 📌 Key Takeaways 
 
-- Gradient Descent is an iterative optimization algorithm.
+- Gradient Descent is an algorithm to minimize a function by optimizing parameters.
 - Moves in the direction of negative gradient.
 - Uses learning rate to control step size.
 - Stops when movement between steps is very small.
