@@ -55,7 +55,7 @@ n*Bp + (n - 1)*(key + Dp) <= Block_Size   ...(n - Order of B Tree)
 
 *Example:*
 ```html
-Insert: 10, 20, 30, 40, 50
+Insert: 10, 20, 30, 40, 50, 80, 70, 90, 60, 99
 
 Minimum keys per node (except root): 1
 Maximum keys per node: 2
