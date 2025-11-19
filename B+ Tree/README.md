@@ -37,7 +37,7 @@ Leaf Nodes (Data Nodes):
 | Internal | Children	| ⌈m/2⌉	| m |
 | Leaf | Key-Data Pairs	| ⌈(m-1)/2⌉	| m - 1|
 
-Structure:
+*Structure:*
 ```
 Internal Node (Index Node):
                | Bp | 20 | Bp | 50 | Bp |
@@ -54,7 +54,7 @@ Leaf Nodes (Data Nodes):
 - Key → Key value.
 - Dp → Data pointer → points to Data (exists only in leaf nodes).
 
-Formula (Block Size):
+*Formula:*
 ```
 Internal Node: n*Bp + (n-1)*key <= Block_Size
 
