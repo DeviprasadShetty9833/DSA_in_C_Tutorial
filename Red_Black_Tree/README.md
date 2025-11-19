@@ -133,4 +133,27 @@ Step 7: Insert 25
             30(R)     →     25(B)
                 \          /    \
                 25(R)    18(R)  30(R)
+
+     10(B)
+    /    \
+  7(B)   16(R)
+        /    \
+      15(B)  25(B)
+            /    \
+          18(R)  30(R)
+
+Step 8: Insert 40
+
+     10(B)
+    /    \
+  7(B)   16(R)
+        /    \
+      15(B)  25(B)
+            /    \
+          18(R)  30(R)
+                    \
+                     40(R)    ...(Rule 4b) ← Violation! RED parent (30) and RED child (25)
+
+
+
 ```
