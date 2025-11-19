@@ -77,9 +77,9 @@ Step 5: Insert 16
          /
        15(R)
          \
-         16(R)   ...(Rule 4b) ← Violation! RED parent (15) and RED child (16)
+         16(R)   ...(Rule 4a) ← Violation! RED parent (15) and RED child (16)
 
-    Case 4b: LR Rotation → LL Rotation
+    1) LR Rotation → LL Rotation
 
          18(B)        18(B)
          /            /
@@ -124,9 +124,9 @@ Step 7: Insert 25
                  \
                  30(R)  
                     \
-                    25(R)   ...(Rule 4b) ← Violation! RED parent (30) and RED child (25)
+                    25(R)   ...(Rule 4a) ← Violation! RED parent (30) and RED child (25)
 
-    Case 4b: LR Rotation → LL Rotation
+    1) RR Rotation
 
          18(B)        
             \           
