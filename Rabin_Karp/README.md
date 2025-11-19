@@ -5,8 +5,6 @@ Both algorithms become **equally slow** when **every substring of the text has t
 
 This happens in the **worst case** for both methods.
 
----
-
 # ⭐ **Scenario Giving Equal Time Complexity**
 
 ### **Let:**
@@ -28,7 +26,6 @@ Therefore:
 
 Both perform **m comparisons at each of (n–m+1) shifts** → **same complexity**.
 
----
 
 # 📌 **Time Complexity Comparison (in this scenario)**
 
@@ -37,7 +34,6 @@ Both perform **m comparisons at each of (n–m+1) shifts** → **same complexity
 | Naive String Matching | **O(n – m + 1)** | **O(nm)**    | **O(nm)**                                      |
 | Rabin–Karp            | **O(n + m)**     | **O(n + m)** | **O(nm)** ← Hash collisions cause verification |
 
----
 
 # 🎯 **Explanation of Why They Become Equal**
 
@@ -53,12 +49,9 @@ But if all substrings have **same rolling hash**, then **every shift produces a 
 Hence pattern comparison (O(m)) happens at every shift.
 
 Thus both algorithms degenerate to:
-
-[
-O((n - m + 1) \cdot m ) = O(nm)
-]
-
----
+```
+O((n - m + 1) * m ) = O(nm)
+```
 
 # 📌 **Final Exam-Ready Answer (Short)**
 
