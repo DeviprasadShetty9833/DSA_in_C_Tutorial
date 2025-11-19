@@ -13,22 +13,23 @@ For a B+ Tree of order m:
 - All leaf nodes are linked together in a sequential linked list
 - All leaves are at the same level.
 ```
-
+```
 Internal Nodes (Index Nodes):
-- Store *only* keys.
+- Store keys + pointers to child nodes.
 - Each node has at most m children.
 - Each node has at least ⌈m/2⌉ children (except root).
 - Each node has at least ⌈m/2⌉ - 1 keys (except root).
 - Each node has at most m-1 keys.
 - Root can have minimum 2 children (if not leaf).
-
+```
+```
 Leaf Nodes (Data Nodes):
-- Store keys and data pointers.
+- Store keys + data pointers + next leaf pointer
 - Are linked together to form a sequential linked list.
 - A leaf node can hold at most m-1 key-data pairs.
 - A leaf node must have at least ⌈(m-1)/2⌉ key-data pairs. (Note:
   rules can vary)
-
+```
 
 
 Node Type
