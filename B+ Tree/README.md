@@ -12,6 +12,7 @@ For a B+ Tree of order m:
 - Keys in internal nodes are replicated in the leaf nodes.
 - All leaf nodes are linked together in a sequential linked list
 - All leaves are at the same level.
+- Height grows from top (root splitting)
 ```
 ```
 Internal Nodes (Index Nodes):
