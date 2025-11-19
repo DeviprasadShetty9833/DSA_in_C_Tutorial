@@ -22,3 +22,16 @@ Rules for Insert operation:
     a. If color is black or null then do suitable rotation and recolor
     b. If color is red, then recolor also check if parent's parent of new node is not root node, then recolor it and recheck.
 ```
+
+Case 4a: Uncle is BLACK
+
+
+
+Case 4b: Uncle is RED, Recolor parent, uncle, and grandparent
+```
+      Black(G)              Red(G)
+      /    \               /    \
+   Red(P) Red(U)  →    Black(P) Black(U)
+    /                   /
+ Red(N)              Red(N)
+```
