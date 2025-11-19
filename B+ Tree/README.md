@@ -19,6 +19,7 @@ Internal Nodes (Index Nodes):
 - Each node has at most m children.
 - Each node has at least ⌈m/2⌉ children (except root).
 - Each node has at least ⌈m/2⌉ - 1 keys (except root).
+- Each node has at most m-1 keys.
 - Root can have minimum 2 children (if not leaf).
 
 Leaf Nodes (Data Nodes):
