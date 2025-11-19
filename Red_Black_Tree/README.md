@@ -36,7 +36,7 @@ Case 4b: Uncle is RED, Recolor parent, uncle, and grandparent
  Red(N)              Red(N)
 ```
 
-
+```
 Step 1: Insert 10 (Root)
 
     10(B)   ...(Rule 1)
@@ -63,11 +63,11 @@ Step 4: Insert 15
 
     Recolor: 7(R), 18(R) → 7(B), 18(B)
 
-    10(B)
-    /    \
-  7(B)   18(B)
-         /
-       15(R)
+        10(B)
+        /    \
+      7(B)   18(B)
+             /
+           15(R)
 
 Step 5: Insert 16
 
@@ -87,4 +87,9 @@ Step 5: Insert 16
          \          /           /    \
          16(R)    15(R)       15(R)  18(R)
 
+Step 6: Insert 30
 
+
+
+
+```
