@@ -53,6 +53,38 @@ Step 3: Insert 7
     /    \
   7(R)   18(R)   ...(Rule 2) ← No violation (both children RED, but parent BLACK)    
 
+Step 4: Insert 15
+
+    10(B)
+    /    \
+  7(R)   18(R)
+         /
+       15(R)    ...(Rule 4b) ← Violation! RED parent (18) and RED child (15)
+
+    Recolor: 7(R), 18(R) → 7(B), 18(B)
+
+    10(B)
+    /    \
+  7(B)   18(B)
+         /
+       15(R)
+
+Step 5: Insert 16
+
+    10(B)
+    /    \
+  7(B)   18(B)
+         /
+       15(R)
+         \
+         16(R)   ...(Rule 4b) ← Violation! RED parent (15) and RED child (16)
+
+    Case 4b: LR Rotation → LL Rotation
+
+         18(B)        18(B)
+         /            /
+       15(R)   →    16(R)    →   16(B)
+         \          /           /    \
+         16(R)    15(R)       15(R)  18(R)
 
 
-  
