@@ -31,7 +31,7 @@ For a B-tree of order m:
 - Key →  Key value
 - Dp →  Data pointer →  points to Data
 
-*Formula:*
+✨ *Formula:*
 ```html
 n*Bp + (n-1)*key + (n - 1)*Dp <= BlockSize   ...(n - Order of B Tree)
 ```
