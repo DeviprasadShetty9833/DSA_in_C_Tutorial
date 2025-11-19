@@ -74,7 +74,9 @@ Step 3: Insert 30
 
       [10, 20, 30] → Overflow!   (3 keys > m-1 = 2)
 
-  Split:     [ 20 ] becomes root
+  Split: Median (20) moves up
+
+             [ 20 ] 
              /    \
           [10]    [30]
 
@@ -90,11 +92,68 @@ Step 5: Insert 50
              /    \
           [10]    [30,40,50] → Overflow!
 
-  Split:     [ 20, 40 ] becomes root
+  Split: Median (40) moves up
+
+             [ 20, 40 ] 
               /   |   \
             [10] [30] [50]
 
+Step 6: Insert 80
 
+                [ 20, 40 ]
+                /   |   \
+             [10] [30] [50, 80]
+
+Step 7: Insert 70
+
+                [ 20, 40 ]
+                /   |   \
+             [10] [30] [50, 70, 80] → Overflow!
+
+   Split right: Median (70) moves up
+
+                [ 20, 40, 70 ] → Root overflow!
+                /   |   |   \
+             [10] [30] [50] [80]
+
+   Split root: Median (40) becomes new root
+
+                [ 40 ]
+               /      \
+          [ 20 ]      [ 70 ]
+         /      \    /      \
+       [10]   [30]  [50]   [80]
+
+Step 8: Insert 90
+
+                [ 40 ]
+               /      \
+          [ 20 ]      [ 70 ]
+         /      \    /      \
+       [10]   [30]  [50]   [80,90]
+
+Step 9: Insert 60
+
+                [ 40 ]
+                /    \
+          [ 20 ]      [ 70 ]
+         /     \     /      \
+       [10]  [30] [50,60] [80,90]
+
+Step 10: Insert 99
+
+                [ 40 ]
+                /    \
+          [ 20 ]      [ 70 ]
+         /      \    /      \
+      [10]    [30] [50,60] [80,90,99] → Overflow!
+
+Split rightmost: Median (90) moves up
+                 [ 40 ]
+                /      \
+          [ 20 ]       [ 70, 90 ]
+         /      \     /     |    \
+      [10]    [30] [50,60] [80] [99]
 ```
 
 ### 3. Deletion
