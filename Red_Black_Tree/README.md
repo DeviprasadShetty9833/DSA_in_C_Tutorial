@@ -84,8 +84,8 @@ Step 5: Insert 16
          18(B)        18(B)
          /            /
        15(R)   →    16(R)    →   16(B)
-         \          /           /    \
-         16(R)    15(R)       15(R)  18(R)
+         \         /            /    \
+         16(R)   15(R)        15(R)  18(R)
 
      10(B)
     /    \
@@ -114,7 +114,23 @@ Step 6: Insert 30
                  \
                  30(R)  
 
+Step 7: Insert 25
 
+     10(B)
+    /    \
+  7(B)   16(R)
+        /    \
+      15(B)  18(B)
+                 \
+                 30(R)  
+                    \
+                    25(R)   ...(Rule 4b) ← Violation! RED parent (30) and RED child (25)
 
+    Case 4b: LR Rotation → LL Rotation
 
+         18(B)        
+            \           
+            15(R)     →     16(R)
+                \          /    \
+                16(R)    15(R)  18(B)
 ```
