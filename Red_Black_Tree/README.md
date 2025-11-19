@@ -20,7 +20,7 @@ Rules for Insert operation:
 3. If parent of new node is black then stop.
 4. If parent of new node is red then check the color of parent's sibling of new node.
     a. If color is black or null then do suitable rotation and recolor
-    b. If color is red, then recolor also check if parent's parent of new node is not root node, then recolor it and recheck.
+    b. If color is red, then recolor parent and uncle also check if grandparent(parent's parent) of new node is not root node, then recolor grandparent and recheck.
 ```
 
 Case 4a: Uncle is BLACK
@@ -94,6 +94,25 @@ Step 5: Insert 16
       15(R)  18(R)
 
 Step 6: Insert 30
+
+     10(B)
+    /    \
+  7(B)   16(B)
+        /    \
+      15(R)  18(R)
+                 \
+                 30(R)    ...(Rule 4b) ← Violation! RED parent (18) and RED child (30)
+
+    Recolor: 15(R), 18(R) → 15(B), 18(B) and 16(B) → 16(R) as 16 is not a root node.
+
+
+     10(B)
+    /    \
+  7(B)   16(R)
+        /    \
+      15(B)  18(B)
+                 \
+                 30(R)  
 
 
 
