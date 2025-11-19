@@ -2,7 +2,7 @@
 
 Self-balancing binary search tree
 
-5 Properties:
+### 5 Properties:
 
 - Color Property: Every node is either RED or BLACK
 - Root Property: The root is always BLACK
