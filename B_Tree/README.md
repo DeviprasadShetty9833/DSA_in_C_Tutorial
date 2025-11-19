@@ -11,7 +11,7 @@ For a B-tree of order m:
 - Each node has at least ⌈m/2⌉ - 1 keys (except root)
 - All leaves at same level
 - Keys in node are sorted
-- Root can have minimum 2 children (if not leaf)
+- Root can have minimum 2 children (if not leaf) & minimum 1 key (if leaf)
 -
 ```
 
