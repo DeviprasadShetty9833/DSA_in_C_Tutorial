@@ -105,7 +105,7 @@ Step 5: Insert 50
 - Locate key to delete
 - If node has more than Min no. of key, then Delete
 - else Borrow from sibling (right or left)
-- if not possible to delete or borrow as no. of keys will be less, then Merge
+- if not possible to delete or borrow as no. of keys will be less, then Merge the siblings.
 ```
 
 *Example:*
