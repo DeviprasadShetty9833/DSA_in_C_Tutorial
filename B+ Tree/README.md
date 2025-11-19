@@ -44,9 +44,10 @@ Internal Node (Index Node):
                 /          |         \
       (key < 20)   (20 <= key < 50)   (key >= 50)
 
+
 Leaf Nodes (Data Nodes):
 ... -> | Bp | 10 | Dp | 15 | Dp | -> | Bp | 20 | Dp | 30 | Dp | -> ...
-       [... Previous Leaf ...]      [... Next Leaf ...]
+         [... Previous Leaf ...]         [... Next Leaf ...]
 ```
 
 - Bp → Block pointer → Points to another node (internal or leaf).
