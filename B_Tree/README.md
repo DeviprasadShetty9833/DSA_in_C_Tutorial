@@ -22,9 +22,9 @@ For a B-tree of order m:
 
 *Structure:*
 ```
-             | Bp | 20 | Dp | Bp | 50 | Dp | Bp |
-              /                \
-| Bp | 10 | Dp | Bp |         | Bp | 30 | Dp | Bp |
+            | Bp | 20 | Dp | Bp | 50 | Dp | Bp |
+            /                   \
+| Bp | 10 | Dp | Bp |     | Bp | 30 | Dp | Bp |
 ```
 
 - Bp →  Block pointer → Points to other node
