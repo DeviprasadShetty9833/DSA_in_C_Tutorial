@@ -45,11 +45,9 @@ n*Bp + (n-1)*key + (n - 1)*Dp <= BlockSize   ...(n - Order of B Tree)
 - Search for appropriate leaf node
 - Insert key in sorted order
 - If node overflows (keys > m-1):
-
-  Split node into two
-  Median key moves to parent
-  Left half and right half become children
-
+  - Split node into two
+  - Median key moves to parent
+  - Left half and right half become children
 - If parent overflows, repeat splitting upward
 - Tree grows in height from top
 ```
