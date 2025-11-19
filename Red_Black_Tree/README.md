@@ -10,4 +10,4 @@ Self-balancing binary search tree
 - Red Property: No two consecutive RED nodes (RED node cannot have RED parent or RED children)
 - Path Property: Every path from a node to its descendant NIL leaves contains the same number of BLACK nodes
 
-- A Red-Black can also have only Black nodes.
+A Red-Black can also have only Black nodes.
