@@ -6,14 +6,14 @@
 ### Properties of B-Tree
 ```html
 For a B-tree of order m:
-- Each node has at most m children
-- Each node has at least ⌈m/2⌉ children (except root)
-- Each node has at least ⌈m/2⌉ - 1 keys (except root)
-- Each node has at most m-1 keys
-- Root can have minimum 2 children (if not leaf) & minimum 1 key (if leaf)
-- All leaves at same level
-- Keys in node are sorted
-- Height grows from the top (when root splits)
+- Each node has at most m children.
+- Each node has at least ⌈m/2⌉ children (except root).
+- Each node has at least ⌈m/2⌉ - 1 keys (except root).
+- Each node has at most m-1 keys.
+- Root can have minimum 2 children (if not leaf) & minimum 1 key (if leaf).
+- All leaves at same level.
+- Keys in node are sorted.
+- Height grows from the top (when root splits).
 ```
 
 |  | min | max |
