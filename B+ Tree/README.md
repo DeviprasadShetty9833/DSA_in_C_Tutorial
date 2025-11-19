@@ -5,12 +5,14 @@
 
 ### Properties of B+ Tree
 
+```
 For a B+ Tree of order m:
 - Internal nodes and leaf nodes have different structures.
 - All data is stored only in the leaf nodes.
 - Keys in internal nodes are replicated in the leaf nodes.
-- All leaf nodes are linked together, providing efficient range queries.
+- All leaf nodes are linked together in a sequential linked list
 - All leaves are at the same level.
+```
 
 Internal Nodes (Index Nodes):
 - Store *only* keys.
