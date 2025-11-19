@@ -37,6 +37,8 @@ Case 4b: Uncle is RED, Recolor parent, uncle, and grandparent
 ```
 
 ```
+Insert 10, 18, 7, 15, 16, 30, 25, 40, 60
+
 Step 1: Insert 10 (Root)
 
     10(B)   ...(Rule 1)
@@ -182,6 +184,32 @@ Step 8: Insert 40
   7(B)    15(B)  18(B)    30(B)
                               \
                               40(R)
- 
 
+Step 9: Insert 60
+
+              16(B)
+           /        \
+      10(R)          25(R)
+     /     \        /    \
+  7(B)    15(B)  18(B)    30(B)
+                              \
+                              40(R)
+                                  \
+                                  60(R)   ...(Rule 4a) ← Violation! RED parent (40) and RED child (60)
+
+    1) RR Rotation, then recolor
+
+         30(B)        
+            \           
+            40(R)     →     40(B)
+                \          /    \
+                60(R)    30(R)  60(R)
+                
+              16(B)
+           /        \
+      10(R)          25(R)
+     /     \        /    \
+  7(B)    15(B)  18(B)    40(B)
+                          /    \
+                       30(R)  60(R)
 ```
