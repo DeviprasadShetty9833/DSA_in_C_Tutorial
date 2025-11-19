@@ -35,3 +35,24 @@ Case 4b: Uncle is RED, Recolor parent, uncle, and grandparent
     /                   /
  Red(N)              Red(N)
 ```
+
+
+Step 1: Insert 10 (Root)
+
+    10(B)   ...(Rule 1)
+    
+Step 2: Insert 18
+
+    10(B)
+      \
+      18(R)    ...(Rule 2) ← No violation (parent is BLACK)
+
+Step 3: Insert 7
+
+    10(B)
+    /    \
+  7(R)   18(R)   ...(Rule 2) ← No violation (both children RED, but parent BLACK)    
+
+
+
+  
