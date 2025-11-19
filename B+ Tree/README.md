@@ -57,7 +57,7 @@ Leaf Nodes (Data Nodes):
 *Formula:*
 ```
 Internal Node: n*Bp + (n-1)*key <= Block_Size
-
+                                                      ...(n - Order of B+ Tree)
 Leaf Node: n*(Key + Dp) + 1_NextLeaf_Bp <= Block_Size
 ```
 
