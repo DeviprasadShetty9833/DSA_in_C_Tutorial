@@ -34,7 +34,7 @@ For a B-tree of order m:
 
 ✨ *Formula:*
 ```html
-n*Bp + (n-1)*key + (n - 1)*Dp <= BlockSize   ...(n - Order of B Tree)
+n*Bp + (n-1)*key + (n - 1)*Dp <= Block_Size   ...(n - Order of B Tree)
 ```
 
 ### 1. Searching
