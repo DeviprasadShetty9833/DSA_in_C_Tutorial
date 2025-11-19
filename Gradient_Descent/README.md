@@ -188,3 +188,5 @@ int main() {
 - Useful for minimizing functions and finding roots.
 - Used everywhere in AI, ML, and optimization.
 
+# References 
+- Applications: [Coffee Shop Reach Time](https://youtu.be/QoK1nNAURw4?si=pUZbon9PDxsLyYvV)
