@@ -31,38 +31,13 @@ Leaf Nodes (Data Nodes):
   rules can vary)
 ```
 
-
-Node Type
-
-
-
-min
-
-max
-
-Internal
-
-Key
-
-⌈m/2⌉ - 1
-
-m-1
+| Node Type |	Element |	Min |	Max |
+|--|--|--|--|
+| Internal | Keys | ⌈m/2⌉ - 1	| m - 1 |
+| Internal | Children	| ⌈m/2⌉	| m |
+| Leaf | Key-Data Pairs	| ⌈(m-1)/2⌉	| m - 1|
 
 
-
-Children
-
-⌈m/2⌉
-
-m
-
-Leaf
-
-Key-Data Pairs
-
-⌈(m-1)/2⌉
-
-m-1
 
 Structure:
 
