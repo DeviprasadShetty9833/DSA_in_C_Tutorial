@@ -12,6 +12,7 @@ Djkistra Algorithm
 
 
 Steps:
+```
 1. Start from source node (distance = 0)
 2. All other nodes: distance = infinity
 3. Repeat until all nodes visited:
@@ -20,3 +21,4 @@ Steps:
         new distance = current distance + edge weight
         if new distance < old distance, update
    c. Mark current node as visited
+```
