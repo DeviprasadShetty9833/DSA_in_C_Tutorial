@@ -2,7 +2,7 @@ Steps:
 ```
 1. Create a forest (each vertex is its own set)
 2. Make a list of all edges
-3. Sort edges in NON-DECREASING order of weight
+3. Sort edges in INCREASING order of weight
 
 4. For each edge (u, v) in sorted order:
        a. Find the set of u (Find(u))
