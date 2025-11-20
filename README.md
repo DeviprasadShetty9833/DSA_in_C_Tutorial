@@ -632,6 +632,17 @@ Operations:
 
  ![status](https://img.shields.io/badge/Status-Upcoming-yellow)
 
+### Graphs
+
+Types of Graph
+- Directed, Undirected
+- Weighted, Unweighted
+- Complete, Finite
+- Multi, Pseudo
+
+Adjacency Matrix, Adjacency List
+
+
 # Algorithms:
 
 - Algorithm Types:
