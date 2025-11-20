@@ -11,10 +11,6 @@ Djkistra Algorithm
  - All edge weights must be non-negative.
 
 
-- Finds shortest path from source node to all other nodes
-- Greedy algorithm - makes locally optimal choices
-- Works only with non-negative edge weights
-
 Steps:
 1. Start from source node (distance = 0)
 2. All other nodes: distance = infinity
