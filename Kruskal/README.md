@@ -13,3 +13,4 @@ Steps:
 
 5. Stop when MST contains (V – 1) edges
 ```
+- For Kruskal, while constructing make sure no cycles are formed.
