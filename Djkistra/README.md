@@ -1,4 +1,4 @@
-Djkistra Algorithm
+# Dijkstra Algorithm
 
   ⏺️ Dijkstra’s Algorithm is a greedy graph search method used to find the shortest path from a single source to all other nodes in a graph.
 
