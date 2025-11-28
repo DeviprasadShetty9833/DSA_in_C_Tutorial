@@ -18,9 +18,9 @@ Rules for Insert operation:
 1. If tree is empty, create new node as root node with color BLACK
 2. else create new node as leaf node with color RED.
 3. If parent of new node is BLACK then stop.
-4. If parent of new node is RED then check the color of parent's sibling of new node.
-    a. If color is BLACK or null then do suitable rotation and recolor
-    b. If color is RED, then recolor parent and uncle also check if grandparent(parent's parent) of new node is not root node, then recolor grandparent and recheck.
+4. If parent of new node is RED then check the color of uncle (parent's sibling) of new node.
+    a. If color is BLACK or null then do suitable rotation and recolor.
+    b. If color is RED, then recolor parent and uncle also check if grandparent (parent's parent) of new node is not root node, then recolor grandparent and recheck.
 ```
 
 Case 4a: Uncle is BLACK
