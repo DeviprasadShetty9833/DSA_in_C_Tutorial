@@ -216,3 +216,9 @@ Step 9: Insert 60
                           /    \
                        30(R)  60(R)
 ```
+
+### 2. Deletion
+
+- Standard BST deletion
+- If deleted node was RED → Done
+- If deleted node was BLACK → Fix "double black"
