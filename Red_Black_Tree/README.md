@@ -15,12 +15,12 @@ Self-balancing binary search tree
 ### 1. Insertion
 ```
 Rules for Insert operation:
-1. If tree is empty, create new node as root node with color black
-2. else create new node as leaf node with color Red.
-3. If parent of new node is black then stop.
-4. If parent of new node is red then check the color of parent's sibling of new node.
-    a. If color is black or null then do suitable rotation and recolor
-    b. If color is red, then recolor parent and uncle also check if grandparent(parent's parent) of new node is not root node, then recolor grandparent and recheck.
+1. If tree is empty, create new node as root node with color BLACK
+2. else create new node as leaf node with color RED.
+3. If parent of new node is BLACK then stop.
+4. If parent of new node is RED then check the color of parent's sibling of new node.
+    a. If color is BLACK or null then do suitable rotation and recolor
+    b. If color is RED, then recolor parent and uncle also check if grandparent(parent's parent) of new node is not root node, then recolor grandparent and recheck.
 ```
 
 Case 4a: Uncle is BLACK
