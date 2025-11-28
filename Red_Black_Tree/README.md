@@ -25,7 +25,10 @@ Rules for Insert operation:
 
 Case 4a: Uncle is BLACK
 
-
+- LL Rotation
+- RR Rotation
+- LR Rotation
+- RL Rotation
 
 Case 4b: Uncle is RED, Recolor parent, uncle, and grandparent
 ```
