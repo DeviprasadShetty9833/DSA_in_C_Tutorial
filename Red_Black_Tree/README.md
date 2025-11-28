@@ -44,13 +44,13 @@ Insert 10, 18, 7, 15, 16, 30, 25, 40, 60
 
 Step 1: Insert 10 (Root)
 
-    10(B)   ...(Rule 1)
+    10(B)        ...(Rule 1)
     
 Step 2: Insert 18
 
     10(B)
       \
-      18(R)    ...(Rule 2) ← No violation (parent is BLACK)
+      18(R)      ...(Rule 2) ← No violation (parent is BLACK)
 
 Step 3: Insert 7
 
