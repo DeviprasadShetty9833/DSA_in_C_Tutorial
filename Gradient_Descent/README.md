@@ -135,19 +135,11 @@ x₄
 x₅
 x₆
 
-| Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
-|--|--|--|--|--|--|
-| n | xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) | xₙ - a * G |
+| Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Cost f(x)² | Gradient G | x₍ₙ₊₁₎ |
+|--|--|--|--|--|--|--|
+| n | xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) | (xₙ² - 5xₙ + 6)² | xₙ - a * G |
 
 Continue till reaching tolerance limit or number of iteration.
-
-| Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
-|--|--|--|--|--|--|
-| 0 | 4.000000 | 2.000000 | 4.000000 | 12.000000
-| 1 | 3.880000 | 1.334400 | 1.780623 | 8.363366
-| 2 | 3.796366 | 0.889891 | 0.791906 | 5.829456
-
-
 
 ## Case 1: Starting from x = 2.3 (toward root at x = 2)
 
