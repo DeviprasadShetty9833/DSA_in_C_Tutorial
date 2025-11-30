@@ -83,8 +83,10 @@ x₆
 Continue till reaching tolerance limit or number of iteration.
 
 | Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
-|--|--|--|--|--|
-| 
+|--|--|--|--|--|--|
+| 0 | 4.000000 | 2.000000 | 4.000000 | 12.000000
+| 1 | 3.880000 | 1.334400 | 1.780623 | 8.363366
+| 2 | 3.796366 | 0.889891 | 0.791906 | 5.829456
 
 Let X * 0 = 1 f(x) = x ^ 2 - 7x + 10 (at x = 1 )=4 f' * (x) = 2x - 7(atX = 1) = - 5 G=2*4-5-40 X1XO-aG1-(0.01-40) = 1.4 f(x1)= 1.96 - 9.8 + 10 = 2.16
 
