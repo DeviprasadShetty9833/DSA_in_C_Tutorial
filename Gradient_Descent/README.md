@@ -60,6 +60,11 @@ Starting at x = 2.52:
 7. Slope becomes almost flat
 8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3, steps become small, slope → 0)
 
+If we minimize f(x), we get the minimum of f(x) (bending point of quadratic function)
+
+![image]()
+
+However we want to find the roots of f(x), Thus we try to minimize the Cost function i.e f(x)².
 
 Let's find Root of Quadratic equation f(x) = x² – 5x + 6 using gradient descent
 
