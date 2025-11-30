@@ -159,6 +159,8 @@ Continue till reaching tolerance limit or number of iteration.
 
 Reached x ≈ 2.103 after 30 iterations
 
+![image]()
+
 ## Case 2: Starting from x = 2.7 (toward root at x = 3)
 
 | Iter | xₙ   | f(xₙ) | f'(xₙ) | f(xₙ)² | g'(xₙ) | xₙ₊₁  |
@@ -176,6 +178,8 @@ Reached x ≈ 2.103 after 30 iterations
 | 30   | 2.900| 0.210 | 0.800  | 0.044  | 0.336   | 2.897 |
 
 Reached x ≈ 2.897 after 30 iterations
+
+![image]()
 
 ## Summary
 
