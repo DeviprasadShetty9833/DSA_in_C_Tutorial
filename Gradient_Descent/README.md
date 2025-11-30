@@ -76,9 +76,9 @@ x₄
 x₅
 x₆
 
-| xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
-|--|--|--|--|--|
-| xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) | xₙ - a * G |
+| Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
+|--|--|--|--|--|--|
+| n | xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) | xₙ - a * G |
 
 Continue till reaching tolerance limit or number of iteration.
 
