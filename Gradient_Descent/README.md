@@ -86,7 +86,7 @@ Here we have 2 choices to select value of x,
   <tr>
     <td align="center" width="33%">
       <strong>Inside the range</strong> 
-      <br>[x = 2.5 at f'(x) = 0]
+      <br>[x = 2.5 at f '(x) = 0]
     </td>
     <td align="center" width="34%">
       <strong>OR</strong>
