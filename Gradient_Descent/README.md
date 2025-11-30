@@ -60,6 +60,11 @@ Starting at x = 2.52:
 7. Slope becomes almost flat
 8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3, steps become small, slope → 0)
 
+
+Let's solve f(x) = x² – 5x + 6
+
+
+
 ---
 
 # 📌 Why Are We Minimizing ?
