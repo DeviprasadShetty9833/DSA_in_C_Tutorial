@@ -67,8 +67,17 @@ Solve for 4 iterations
 
 Consider Learning rate (α) = 0.01
 
+xₙ
+x₀
+x₁
+x₂
+x₃
+x₄
+x₅
+x₆
+
 | x | Polynomial f(x) | Derivative f'(x) | Gradient J'(x) | 
-| Xn | Xn² - 5Xn + 6 | 2x - 5 | 2 * (x² - 5x + 6) * (2x - 5) |  Xn+1 = Xn - a * G 
+| xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) |  Xn+1 = xₙ - a * G 
 
 Continue till reaching tolerance limit or number of iteration.
 
