@@ -72,11 +72,11 @@ Consider Learning rate (α) = 0.01
 Now we know that the roots of x² – 5x + 6 are 2 & 3.
 
 Here we have 2 choices to select value of x,
-- Inside the range:
+- Inside the range: x = 2.5 at f(x)=0
 
 | For root 3 | For root 2 | 
 |--|--|
-| x > f(x)=0 i.e x > 2.5 | x < f(x)=0 i.e x < 2.5  
+| x > 2.5 | x < 2.5 |
 
 OR
 
