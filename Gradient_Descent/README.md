@@ -51,7 +51,7 @@ Starting at x = 2.52:
 1. Polynomial: f(x) = x² – 5x + 6
 2. Derivative: f'(x) = 2x – 5
 3. Cost: J(x) = f(x)²
-4. Gradient: J'(x) = 2 * f(x) * f'(x)  ...( Derivative of Cost )
+4. Gradient: G = J'(x) = 2 * f(x) * f'(x)  ...( Derivative of Cost )
 5. Update x: x_next = x_current – learning_rate * gradient   ...( eg. α = 0.01 = small safe step )
 6. x moves a little to the right:
 
@@ -76,8 +76,9 @@ x₄
 x₅
 x₆
 
-| x | Polynomial f(x) | Derivative f'(x) | Gradient J'(x) | 
-| xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) |  Xn+1 = xₙ - a * G 
+| xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
+|--|--|--|--|--|
+| xₙ | xₙ² - 5xₙ + 6 | 2xₙ - 5 | 2 * (xₙ² - 5xₙ + 6) * (2xₙ - 5) | xₙ - a * G |
 
 Continue till reaching tolerance limit or number of iteration.
 
