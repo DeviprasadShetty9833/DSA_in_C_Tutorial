@@ -60,7 +60,7 @@ Starting at x = 2.52:
 7. Slope becomes almost flat
 8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3, steps become small, slope → 0)
 
-> If we minimize f(x), we get the minimum of f(x) (the point where f(x) = 0)
+> If we minimize f(x): We get x where f'(x) = 0 (minimum point). But we want: x where f(x) = 0 (roots)
 
 f(x) = x² - 5x + 6
 
@@ -69,8 +69,6 @@ f(x) = x² - 5x + 6
 
 
 ![image](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/bfb9bdb30d5732f6957f15f6409ba0d610ac0a65/Gradient_Descent/assets/Min.jpg)
-
-> However we want to find the roots of f(x), Thus we try to minimize the Cost function f(x)² and get f'(x) = 0.
 
 Let's find Root of Quadratic equation f(x) = x² – 5x + 6 using gradient descent for 4 iterations.
 Consider Learning rate (α) = 0.01
