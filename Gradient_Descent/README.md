@@ -90,6 +90,20 @@ OR
 |--|--|
 | x > 3 i.e 4 | x < 3 i.e 1 |
 
+
+| Inside the range [ x = 2.5 at f'(x)=0 ] | OR | Outside the range | 
+|--|--|--|
+|
+
+| For root 3 | For root 2 | 
+|--|--|
+| x > 2.5 | x < 2.5 | | 
+
+| For root 3 | For root 2 | 
+|--|--|
+| x > 3 i.e 4 | x < 3 i.e 1 | | 
+
+
 xₙ
 x₀
 x₁
