@@ -184,18 +184,6 @@ Reached x ≈ 2.897 after 30 iterations
 - Watershed effect at x = 2.5 perfectly separates domains
 - Learning rate α = 0.01 provides stable convergence
 
-
-Let X * 0 = 1 f(x) = x ^ 2 - 7x + 10 (at x = 1 )=4 f' * (x) = 2x - 7(atX = 1) = - 5 G=2*4-5-40 X1XO-aG1-(0.01-40) = 1.4 f(x1)= 1.96 - 9.8 + 10 = 2.16
-
-Root of Quadratic equation using gradient descent
-
-Iteration 2
-
-Let X * 0 = 1.4
-
-f(x) = x ^ 2 - 7x + 10 (at X = 1.4 )=2.16 f' * (x) = 2x - 7 (at X = 1.4) 2.8-7 = -4.2 G22.16-4.2-18.144 X2X1-aG => 1.4-(0.01-18.144)=1.58 f(x1) => (1.581.58)-(71.58) + 10 = 1.436
-
-
 ---
 
 # 📌 Why Are We Minimizing ?
