@@ -82,9 +82,9 @@ x₆
 
 Continue till reaching tolerance limit or number of iteration.
 
-Root of Quadratic equation using gradient descent
-
-Iteration 1
+| Iteration | xₙ | Polynomial f(x) | Derivative f'(x) | Gradient G | x₍ₙ₊₁₎ |
+|--|--|--|--|--|
+| 
 
 Let X * 0 = 1 f(x) = x ^ 2 - 7x + 10 (at x = 1 )=4 f' * (x) = 2x - 7(atX = 1) = - 5 G=2*4-5-40 X1XO-aG1-(0.01-40) = 1.4 f(x1)= 1.96 - 9.8 + 10 = 2.16
 
