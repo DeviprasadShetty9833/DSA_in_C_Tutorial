@@ -93,7 +93,7 @@ OR
 <table>
   <tr>
     <td colspan="3" align="center">
-      <strong>Quadratic Analysis</strong>
+      <strong>Value of x</strong>
     </td>
   </tr>
   <tr>
@@ -136,36 +136,6 @@ OR
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>
-          <strong>Generative AI Developer</strong> •<strong> 11× Hackathon Winner</strong> • <strong>Founding Engineer</strong>
-        </li>
-        <li>3 years of experience in software development.</li>
-        <li>Building across <strong>Generative AI</strong> and the <strong>JS Ecosystem</strong>.</li>
-        <li>Check my work → <a href="https://thatayush.dev"><strong>thatayush.dev</strong></a></li>
-      </ul>
-    </td>
-    <td align="right" valign="top" width="200">
-      <img src="me.jpg" alt="Ayush" width="180" height="180" />
-    </td>
-  </tr>
-  
-</table>
-
-| Inside the range [ x = 2.5 at f'(x)=0 ] | OR | Outside the range | 
-|--|--|--|
-|
-
-| For root 3 | For root 2 | 
-|--|--|
-| x > 2.5 | x < 2.5 | | 
-
-| For root 3 | For root 2 | 
-|--|--|
-| x > 3 i.e 4 | x < 3 i.e 1 | | 
 
 
 xₙ
