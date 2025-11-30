@@ -61,8 +61,30 @@ Starting at x = 2.52:
 8. Algorithm stops when: |x_next - x_current| < tolerance    ...(near x = 3, steps become small, slope → 0)
 
 
-Let's solve f(x) = x² – 5x + 6
+Let's find Root of Quadratic equation f(x) = x² – 5x + 6 using gradient descent
 
+Solve for 4 iterations
+
+Consider Learning rate (α) = 0.01
+
+| Polynomial f(x) | Derivative f'(x) | Gradient J'(x) | 
+| x² - 5x + 6 | 2x - 5 | 2 * (x² - 5x + 6) * (2x - 5) |  Xn+1 = Xn - a * G 
+
+Continue till reaching tolerance limit or number of iteration.
+
+Root of Quadratic equation using gradient descent
+
+Iteration 1
+
+Let X * 0 = 1 f(x) = x ^ 2 - 7x + 10 (at x = 1 )=4 f' * (x) = 2x - 7(atX = 1) = - 5 G=2*4-5-40 X1XO-aG1-(0.01-40) = 1.4 f(x1)= 1.96 - 9.8 + 10 = 2.16
+
+Root of Quadratic equation using gradient descent
+
+Iteration 2
+
+Let X * 0 = 1.4
+
+f(x) = x ^ 2 - 7x + 10 (at X = 1.4 )=2.16 f' * (x) = 2x - 7 (at X = 1.4) 2.8-7 = -4.2 G22.16-4.2-18.144 X2X1-aG => 1.4-(0.01-18.144)=1.58 f(x1) => (1.581.58)-(71.58) + 10 = 1.436
 
 
 ---
