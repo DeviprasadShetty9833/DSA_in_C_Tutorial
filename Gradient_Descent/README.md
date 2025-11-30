@@ -62,7 +62,7 @@ Starting at x = 2.52:
 
 If we minimize f(x), we get the minimum of f(x) (the point where f(x) = 0)
 
-![image]()
+![image](https://github.com/DeviprasadShetty9833/DSA_Journal/blob/bfb9bdb30d5732f6957f15f6409ba0d610ac0a65/Gradient_Descent/assets/Min.jpg)
 
 However we want to find the roots of f(x), Thus we try to minimize the Cost function f(x)² and get f'(x) = 0.
 
