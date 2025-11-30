@@ -92,6 +92,52 @@ OR
 
 <table>
   <tr>
+    <td colspan="3" align="center">
+      <strong>Quadratic Analysis</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Inside the range</strong> [x = 2.5 at f'(x) = 0]
+    </td>
+    <td align="center" width="34%">
+      <strong>OR</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>Outside the range</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center"><strong>For root 3</strong></td>
+          <td align="center"><strong>For root 2</strong></td>
+        </tr>
+        <tr>
+          <td align="center">x > 2.5</td>
+          <td align="center">x < 2.5</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center"><strong>For root 3</strong></td>
+          <td align="center"><strong>For root 2</strong></td>
+        </tr>
+        <tr>
+          <td align="center">x > 3 i.e 4</td>
+          <td align="center">x < 3 i.e 1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <ul>
         <li>
