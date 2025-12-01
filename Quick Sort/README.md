@@ -11,3 +11,11 @@ Quick Sort
 - 
 
 Merge Sort
+
+
+2. Greedy Algorithm
+Key Problems:
+
+Knapsack Problem (Fractional)
+
+Job Sequencing with Deadlines
