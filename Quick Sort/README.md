@@ -1,4 +1,6 @@
 *Steps:*
 
-- Choose Pivot as First / Last element
+- Choose Pivot P as First element
+- Simalrly Q (opp to P end) as last element
+- Start checking elements from left - if elemnt < P stop
 - 
