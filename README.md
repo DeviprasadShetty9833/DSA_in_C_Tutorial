@@ -1,7 +1,7 @@
 # DSA_Journal( C++ & C Programming )
 
 
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white) | ![My_Portfolio](https://img.shields.io/badge/My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white) | [![My_Projects](https://img.shields.io/badge/My_Projects-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Projects)  |                      
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white) | ![My_Portfolio](https://img.shields.io/badge/My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white) | [![My_Projects](https://img.shields.io/badge/My_Projects-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rasenshuriken12/My_Projects)  |                      
 |---|---|---|
 
 ---
@@ -675,6 +675,6 @@ If you like ❤️ this project, give it a ⭐ (Top right of page) and share it 
 
  ---
 
-| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#DSA_in_C_Tutorial) | [![DSA_Prep_Qns](https://img.shields.io/badge/Back_to-DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) | [![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) |
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#DSA_in_C_Tutorial) | [![DSA_Prep_Qns](https://img.shields.io/badge/Back_to-DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/rasenshuriken12/DSA_Prep_Qns) | [![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/rasenshuriken12/Resources) |
 |---|---|---|
  
