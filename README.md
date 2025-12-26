@@ -670,6 +670,12 @@ Adjacency Matrix, Adjacency List
 </td></tr>
 </table>
 
+# Feedback:
+
+I’d love to hear from you!
+<br> If you encounter any [Issues](https://github.com/rasenshuriken12/DSA_Journal/issues), or have [Suggestions](Suggestions) for improvements.
+
+
 # 🙋‍♂️ Support:
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
 
